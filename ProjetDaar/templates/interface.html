@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+  <style>
+   
+    body {
+      background-image: url("https://sbooks.net/wp-content/uploads/2021/10/old-book-flying-letters-magic-light-background-bookshelf-library-ancient-books-as-symbol-knowledge-history-218640948.jpg");
+      background-repeat: no-repeat;
+      background-attachment: fixed;
+      background-size: cover;
+    }
+    div{
+      margin: 250px auto;
+      width: 200px; 
+
+    }
+    </style> 
+    <body>
+      <div class="search-container" >
+        <form method="post" action="{% url 'search' %}" >
+          {% csrf_token %}
+          <input type="checkbox" id="c1" name="advenced" value="on">
+          <label for="c1" style="color: white"> Search using a RegEx</label><br>
+
+          <input type="checkbox" id="c2" name="scorebox" value="on">
+          <label for="c2" style="color: white"> Search by number of match</label><br>
+
+          <input type="checkbox" id="c3" name="crankbox" value="on">
+          <label for="c3" style="color: white"> Search by pertinence</label><br>
+
+          <input type="text" name="content" value=".*">
+          <button type="submit"><i class="fa fa-search">submit</i></button>
+        </form>
+      </div>
+    </body>
+</html>

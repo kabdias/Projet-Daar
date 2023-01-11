@@ -1,0 +1,2897 @@
+﻿The Project Gutenberg eBook of Kenyér és bor, by Dezső Kosztolányi
+
+This eBook is for the use of anyone anywhere in the United States and
+most other parts of the world at no cost and with almost no restrictions
+whatsoever. You may copy it, give it away or re-use it under the terms
+of the Project Gutenberg License included with this eBook or online at
+www.gutenberg.org. If you are not located in the United States, you
+will have to check the laws of the country where you are located before
+using this eBook.
+
+Title: Kenyér és bor
+
+Author: Dezső Kosztolányi
+
+Release Date: August 30, 2021 [eBook #66179]
+
+Language: Hungarian
+
+
+Produced by: Albert László from page images generously made available by
+             the HathiTrust Digital Library
+
+*** START OF THE PROJECT GUTENBERG EBOOK KENYÉR ÉS BOR ***
+
+EZT A KÖNYVEMET
+
+HORVÁT HENRIKNEK
+
+A MŰVÉSZNEK ÉS BARÁTNAK AJÁNLOM
+
+KOSZTOLÁNYI DEZSŐ
+
+KENYÉR ÉS BOR
+
+ÚJ VERSEK
+
+1920
+
+TEVAN-KIADÁS
+
+TEVAN NYOMDA ÉS KÖNYVKIADÓVÁLLALAT BÉKÉSCSABA
+
+
+
+
+AZ ÁLDOTTAK
+
+
+BOLDOG, SZOMORÚ DAL
+
+  Van már kenyerem, borom is van,
+  Van gyermekem és feleségem.
+  Szivem minek is szomorítsam?
+  Van mindig elég eleségem.
+  Van kertem, a kertre rogyó fák
+  Suttogva hajolnak utamra,
+  És benn a dió, mogyoró, mák
+  Terhétől öregbül a kamra.
+  Van egyszerü, jó takaróm is,
+  Telefonom, úti böröndöm,
+  Van jó-szivü jót-akarom is,
+  S nem kell kegyekért könyörögnöm,
+  Nem többet az egykori köd-kép,
+  Részegje a ködnek, a könnynek,
+  Ha néha magam köszönök még,
+  Már sokszor előre köszönnek.
+  Van villanyom, izzik a villany,
+  Tárcám van igaz szinezüstből,
+  Tollam, ceruzám vigan illan,
+  Szájamban öreg pipa füstöl.
+  Fürdő van, üdíteni testem,
+  Langy téa, beteg idegemnek,
+  Ha járok a bús Budapesten,
+  Nem tudnak egész idegennek.
+  Mit eldalolok, az a bánat
+  Könnyekbe borít nem egy orcát,
+  És énekes ifju fiának
+  Vall engem a vén Magyarország.
+  De néha megállok az éjen,
+  Gyötrődve, halálba hanyatlón,
+  Úgy ásom a kincset a mélyen,
+  A kincset, a régit, a padlón,
+  Mint lázbeteg, aki feleszmél,
+  Álmát hüvelyezve, zavartan,
+  Kezem kotorászva keresgél,
+  Hogy jaj! valaha mit akartam,
+  Mert nincs meg a kincs, mire vágytam,
+  A kincs, amiért porig égtem.
+  Itthon vagyok itt e világban
+  S már nem vagyok otthon az égben.
+
+
+HITVES
+
+  Még hozzád vágyik egyre e beteg szív
+  És úgy követlek, mint sötét detektiv,
+  A pesti utcán, a budai lankán,
+  Kedves Ilonkám.
+
+  De egyre jobban szállnak már az évek,
+  Fáradt szemünk a semmiségbe réved
+  És a mi jön, az oly hűs és komorló,
+  Mint a koporsó.
+
+  Az arcodon is feltün néha-néha
+  A fönség és gyász végtelen árnyéka
+  S életre buzditasz, halálra intesz,
+  Mint ama hitves,
+
+  Ki kőbe vésve áll a sírok ormán
+  Egy anya fájdalmával és mogorván
+  A sír hálószobáját nézi csendben
+  S szeme se rebben.
+
+  Mondd, mit tudsz erről, mindennek tudója,
+  Nő, kinek egy a szemfödő s a pólya,
+  Titokzatos alvótárs, földi vágyban
+  S a hideg ágyban.
+
+  Rejtélyes, aki immár szomorúnak
+  Mutatod arcod, húga te a búnak,
+  Beszéld el, mi az élet szörnyü titka
+  És mi a kripta.
+
+  Hitetlen én, ki senkibe se hittem,
+  Beléd fogódzom és kérdezlek itten,
+  Hová megyünk mi, élet koszorúsa,
+  Mélyszavu múzsa?
+
+
+RÉSZEG VIRÁGOK ÉS DARÁZS-SZÓ
+
+  Most harminckét éves vagyok.
+  Nyár van.
+  Lehet, hogy tán ez, amire
+  Vártam.
+  Egészség duzzaszt hallgatag,
+  Bronz-arcom égeti a nap
+  És lassan
+  Megyek fehér ruhában a
+  Lugasban
+  Pipámba sárgálló dohány,
+  S a füstje kékes, halovány,
+  A fák alatt egy kerti széken
+  Alszik szelíden feleségem.
+  A küszöbön fiam. A szeme kék láng,
+  Nagy szőke fej,
+  Álmos puha száján csiklandva csorran
+  A lanyha tej.
+  Vad délután, a föld parázsló,
+  Részeg virágok és darázs-szó.
+
+  Ha haldoklom, ezt suttogom:
+  Nyár volt.
+  Jaj, a boldogság máshová
+  Pártolt.
+  Egészség fűtött hallgatag,
+  Égette bronzarcom a nap
+  És lassan
+  Mentem fehér ruhában a
+  Lugasban.
+  Pipámban sárgálló dohány
+  S a füstje kék volt, halovány
+  A fák alatt egy kerti széken
+  Aludt szelíden feleségem.
+  A küszöbön fiam. A szeme kék láng,
+  Nagy szőke fej.
+  Álmos, puha száján csiklandva csorrant
+  A lanyha tej.
+  Vad délután volt és parázsló.
+  Részeg virágok és darázs-szó.
+
+
+JAJSZÓ
+
+  Mult este kissé lehajoltam
+  S feleségem azt mondta halkan,
+  Őszülsz fiam.
+
+  Tompán a lámpafénybe néztem,
+  Aztán zavartan fütyürésztem,
+  Búsan-vígan.
+
+  Mint a hold-udvar őszi éjen
+  Olyan volt most a lámpa nékem,
+  Oly hallgatag.
+
+  Ádám fiunk már álmodott rég
+  S én mintha messze-messze volnék,
+  A föld alatt.
+
+  Az ablakokat mind bezártam
+  S úgy ültem a budai házban,
+  Mint aki fél.
+
+  Eszem azon járt, ama tincsen,
+  Zörgette a szél a kilincsem,
+  Az ősz, a szél.
+
+  Egy ember jár itt, csúnya ember,
+  Szakálla kender, a november,
+  Jaj istenem,
+
+  Én láttam őt, mint apró-cseprő,
+  Söpör-söpör, kezébe seprő,
+  Jól ismerem.
+
+  A kapudat hiába zárod,
+  Hiába bújsz, fejedre károg
+  S oly bús a dal.
+
+  Nevetni nem hagy, sírni sem hagy,
+  Azt dudorássza egyre, nem vagy
+  Már fiatal.
+
+
+VERÉS
+
+  Hogy vertek engem, kisfiam, nőm,
+  Kiket szeretek, édesek.
+  Ti rólatok dalol ma lelkem,
+  Mely csupa jaj és csupa seb.
+
+  Ha sírsz, fiam, halvány sirással
+  Versz engem és ütöd urad,
+  Én asszonyom, ha tompa délben
+  A hőmérőd lázat mutat.
+
+  Akik gyűlöltek mindig adtak,
+  Ők a szelídek és a jók.
+  De görcs nekem, halál a jóság
+  És keserű és fáj a csók.
+
+  Mert vertem akiket szerettem
+  S kiket szeretek, vernek ők.
+  Mostan sötét kezüket áldom,
+  Áldottak a nagyon-verők.
+
+  Igy még csak az istent szerettem
+  Kisgyermeki, bús éjeken.
+  Ő vert ilyen kemény ütéssel
+  A nagy, a vak, a végtelen.
+
+  Jaj, én tudtam, hogy nem mulatság
+  Szeretni és nem heverés.
+  De most tudom, szeretni szörnyű,
+  Szeretni az: verés, verés.
+
+  Verjétek életem kegyetlen
+  Amint sose vert a harag,
+  Verjétek értetek kiáltó,
+  Könnytől fuldokló szájamat.
+
+  Én nem panaszlom, hogy szerettem
+  És hogy szeretni fájt nagyon.
+  Verjétek a jobb és bal arcom,
+  Szívekkel verjetek agyon.
+
+
+ANYAI NAGYAPÁM ARCKÉPE
+
+  Szemem most gyakran visszanéz,
+  És úgy idézlek
+  Jó nagyapám, te régi gyógyszerész.
+
+  Arcodon mély magány jegye.
+  Te félreültél,
+  Hogy mulatott cigánnyal a megye.
+
+  Azt mondják régi emberek,
+  Tej, szódavíz volt
+  Italod hangos asztalok megett.
+
+  Ruhádon nincs egy árva folt,
+  Oly szűzi-rendes,
+  De körmöd a sok jódtól sárga volt.
+
+  Patikus-család hű fia,
+  Könyved se volt több
+  Csak egy latin, ó _Pharmacopoea_.
+
+  Bolyongtál a magyar mezőn,
+  Lankadt zarándok,
+  Fájó göröngyre estél könnyezőn.
+
+  Hányszor látlak, ifju füvész,
+  Alélva menni
+  Egy tájon, hol az inség fütyürész.
+
+  Szivedbe méreg és virág,
+  Bot a kezedben,
+  A válladon egy ócska hátizsák.
+
+  Ánizs, kamilla, jószagú
+  Gyökér volt benne
+  És benne volt, már benne volt a bú.
+
+
+SAKKOZTUNK EGYSZER…
+
+  Sakkoztunk egyszer három nagydiákok
+  Vörös tűznél, szigorú téli éjjel,
+  Az asztalon tuss és cirkalom állott,
+  S latin könyvek, kinyitva, szerteszéjjel.
+  Künn a fehér fák vártak, félve, halkkal,
+  A szél alighogy néha fölsóhajtott
+  S mi majszoltuk fiatal-lágy ajakkal
+  Az édes és bibor birsalma-sajtot,
+  Melyben dió volt…
+
+              Még alig tiz éve
+  S szemem kutat az elborult határon,
+  Megoldódott a kedves-régi kéve
+  S a nagydiák már eltünt, mind a három.
+  Az első az, aki e verset írja,
+  A második, az isten tudja hol van,
+  S a harmadiknak púpos már a sírja,
+  Keresztje elvész a sötét falombban.
+
+  Jaj, mit tudtak, három diák, az este,
+  Hogy térden állva nézni kell e szépet,
+  Csak én látom a mult falára festve,
+  Mi nem láttuk még akkor ezt a képet.
+  Türelmetlen vér nyargalt ereinkben,
+  Szerettünk volna mindig menni, menni,
+  Mit is sejtettük, hogy ez itt a minden,
+  És a mi aztán jön, a semmi, semmi.
+  Ha pitypang kelyhét fújtuk, semmiség volt,
+  Unottan vártuk az időt, mi eljő,
+  Hiába lángolt kelletőn az égbolt,
+  Csak ő kellett, a koldusi jövendő,
+  Mert azt hittük, az élet, mint a tenger
+  Bejárhatatlan, nem lesz soha vége,
+  Előre néztünk nyugtalan szemekkel
+  Míg lábunknál hevert a csönd, a béke.
+
+  De én a tengerek végére értem,
+  Vitorlámat fordítom újra vissza
+  S most megpihen e régi, téli éjben
+  Szegény lelkem, a fáradt nihilista.
+
+
+CSÁTH GÉZÁNAK
+
+  Te sohase-jövő és sohase-beszélő,
+  Várlak ma is, halott, e hosszú és e késő,
+  Bús éjszakán.
+
+  Mert mészfehéren ég távolban a hegyoldal,
+  S befestve a falam a bandzsal, csorba holddal
+  Oly halavány.
+
+  Nem kell-e szólnod, mondd? Nincs semmi hír amonnan,
+  Hol fejfa és kereszt elvész a sűrü lombban
+  És sír a táj?
+
+  Én tudtam, hogy közöny s merev csönd van az éjben,
+  De hogy ilyen soká tart, azt most meg nem értem
+  És fájva fáj.
+
+  Alvó, emeld lassan nehéz és hosszú pillád
+  S a végtelen felé táguló nagy pupillád
+  Szögezd felém.
+
+  Most a palicsi tó úgy fénylik, mint az ólom
+  És a beléndeken s a vad farkasbogyókon
+  Alszik a fény.
+
+  Ah jól siess. Szived még egyszer megszakad tán,
+  Ha hosszan bolygasz a cyrillbetűs Szabadkán
+  S nem értenek.
+
+  És űznek majd tovább idegen, bús hazádban,
+  Zsákutcán és közön, ideges és hazátlan
+  Kisértetet.
+
+  Itt nyiss be csöndesen. Isméred a kilincsem.
+  Tudod, hogy portámon és a szivembe nincsen
+  Semmi gonosz.
+
+  Mert nem feledtelek. A fülledt estbe úszó,
+  Ablakból fölsiró, homályos hegedűszó
+  Eszembe hoz.
+
+  Igy látlak mindig én, édes, fiatal orvos,
+  Fehér köpenyben, a kavicsos és porondos
+  Kertudvaron.
+
+  De jőjj akárhogy is. Vérrel, sárral, te lélek,
+  Férgek gyűrűivel. Ha a láttodra félek,
+  Eltagadom.
+
+  Szemedbe bámulok és csellel kényszerítem
+  Kezedbe a kezem és a szivedre szívem,
+  Ha nem merem.
+
+  Igen, elédmegyek és régi orvosomnak
+  Csuklóm odanyújtom, hogy vizsgáld meg mint szoktad,
+  Ütőerem.
+
+  Oly jó az, aki ad s te élted odaadtad,
+  Angyali gyilkosa nődnek s tennen-magadnak,
+  Szelíd barát,
+
+  Ki végtelent ittál s a lelked égre lázadt,
+  Majd összetörted a tébolyok és a lázak
+  Szent poharát.
+
+  Lásd, itt leülhetnél. Nincs bontva még az asztal,
+  Kávé, dohány és rum vár mérgező malaszttal
+  S a mult, a csend.
+
+  Halkan beszélgetnénk. Elmondanám, mi történt,
+  S fölfedném szótalan a fájó, néma örvényt,
+  A névtelent.
+
+  Síró Hungáriánk ma porba fekszik árván,
+  Fölötte az átok, mint fekete szivárvány,
+  Gyászt bontogat.
+
+  Anyáink, húgaink járulnának elébed,
+  Kik éhesen rágják, elfáradott cselédek,
+  A csontokat.
+
+  Jaj, megmutatnám én a szívem is, e szörnyet,
+  Mely nappal céltalan halott vágyakra görnyed
+  S éjszaka sír.
+
+  Mert életem felén nem is vagyok, de látszom,
+  S reggel, ha öltözöm, csak játszom, egyre játszom
+  És vár a sír.
+
+  Ó vad szerelmese az őrült morfiumnak
+  Adj ágyat most nekem és az éjféli búmnak,
+  Akár a pap
+
+  Kérlek kiáltozván és íróasztalomra
+  Fantasztikus lázban görbedek lehajolva,
+  Hogy hívjalak.
+
+  Hisz a semmit tudod, gazdag, végzett, hatalmas,
+  Ki célhoz értél már, kell, hogy valamit adhass
+  Annak, ki él
+
+  S álomtalan éjjel kétségbeesve vár rád,
+  A multnak koldusa és százszorosan árvább
+  A semminél.
+
+  Te a halálé vagy, zarándoka az árnynak,
+  Ki bátran indultál, kapudat megtaláltad
+  Az éj felé.
+
+  De én, jaj, itt vagyok a fényben és hitetlen
+  Feledve önmagam, jajokba fúlva lettem
+  Az életé.
+
+
+A NAGYVÁROSBAN ÉLTEM
+
+  A nagyvárosban éltem, hol a börzék
+  Déltájt, mikor magasba hág a nap,
+  Üvöltenek és mint megannyi torzkép
+  Az ember-arcok görcsbe ránganak.
+  Középkorban, fényén egy régi délnek,
+  Szólt a harang, letérdelt a paraszt,
+  Ők így imádkoznak, kik mostan élnek,
+  Csak pénzt kiáltva, jajt és bús panaszt,
+  Ijedt számokkal istenről vitáznak,
+  Az új istenről, »adnak«, egyre »vesznek«,
+  Hódolnak az aranynak és a láznak,
+  Magasba szállanak s a mélybe vesznek.
+  Kezük, mint azoké, kik vízbe buknak
+  És a tengerben egymást fojtogatják,
+  Kéken sötétlik ere homlokuknak,
+  Nem ismeri itt a fiú az atyját.
+  Mit tudják ők, hogy hol van ama méhes,
+  Amelyre most a déli csönd alászáll,
+  Mind telhetetlen, részeg, beteg, éhes,
+  A pénz ura, a csíszár és a császár.
+
+  Jaj, nem lehet azt soha kőre róni,
+  Mit szenvedünk, kik épitjük ma nyúlánk,
+  Egekbe vágyó, óriási gúlánk,
+  Mit meg se látnak e kor Fáraói.
+
+  Én is szolgálok, mint a többi árva
+  A láznak és aranynak, kósza lélek,
+  Irgalmat esdek, a karom kitárva,
+  S alázatos vagyok, mivelhogy élek.
+  Harminckét éve járok hőbe-hóba
+  S az életemnek kedve már hunyóba.
+  Szeretnék el-kivándorolni innen,
+  Hogy még lehetne az életbe hinnem.
+  Egy asszonnyal, egy kétéves gyerekkel,
+  Mennék az országúton, vándorember.
+  El innen, el-el messze, édes álom,
+  És élni kissé, nem ily eltiportan.
+  Két kedvesem elől egy kis szamáron,
+  S én kampós bottal, lenn az úti porban…
+
+
+ÁDÁM FIAM UTRAVALÓJA
+
+  Ugy írom néked, kisfiam e verset,
+  Míg életemnek aszu fája korhad,
+  Minden nap egy sort, lassan és szelíden,
+  Hogy nemesítsen a rímes gyakorlat.
+  Halkabbra vált már a szivem verése,
+  A vérem néha pezsgett, de lehülten,
+  S ha futni kellett volna a futókkal,
+  Egy utcapadra csüggeteg leültem.
+
+  Egy képet akarok te néked adni,
+  Olyant, mi nékem kiskoromba tetszett,
+  Hogy életünk, melyet ma könnyel élünk
+  Ugy hasson rád, mint egy ódon fametszet.
+  A háború kalandor üstkössét
+  Rajzolgatom a vígasztalan égen,
+  Te egykor rátekintesz majd e képre,
+  S ámulva szólsz, rég lehetett, de régen.
+
+  Mert mostan éltél. A magyar igére
+  Alig nyitottad gyenge, drága szádat.
+  Tejről beszéltél, mézről és anyáról,
+  S csizmák tiporták ártatlan hazádat.
+  Jaj, kismagyar. Te bénák közt tipegtél
+  A jodoform és karbol illatában
+  Mankókkal játszottál budai kertben
+  S szegény rokkantak néztek haloványan.
+
+  Akik ma éltek, azok porba rogytak,
+  A krisztusi-szelídek nem beszéltek.
+  Akik ma sírtak, száraz szemmel álltak
+  S ájult szavakat mondtak el a szélnek.
+  Aggastyán sem tud szólni így a multról,
+  Se pókhálós könyv, mely bölcs és hideg lesz,
+  Figyelj reánk, akik ma vérben állunk,
+  Hajolj hozzánk, a ma-verő szivekhez.
+
+  Aranyt neked, aranyt, tömjént és myrrhát,
+  A kisdednek, a dacosan növőnek,
+  Ki felkanyarodsz új koroknak ormán,
+  Aranyt tenéked s az arany jövőnek,
+  Legyen tiéd a föld, mit megtagadtam,
+  Az ősi birtok szálljon reád újra,
+  Az ember álma, az erő, a minden,
+  A föld, a föld, a szent föld hallelújja.
+
+  Én, éhenkórász, rímelő apostol,
+  A mélyből a magasba epedek fel,
+  És látlak téged, biztosan, a földön,
+  Fehér villába, hófehér ebekkel.
+  Vagy gépkocsiban, autószemüveggel,
+  Mintha az egész világ ura volnál,
+  Vagy erkélyen, az ordító tömegben,
+  Párnás ajtók mögött, a telefonnál.
+
+  Mikor e látnok verset befejeztem
+  Az áprilisi szél borzolta lanyhán
+  A bokrokat, s nehéz-sötét sóhajjal
+  Nézett anyád reád, a kis verandán.
+  Még nem csüggedt le az idők özönje
+  És egyre nőtt az ár és nőtt az átok,
+  S mint járvány-cédulák halotti házon
+  Rikítottak a bús, skarlát plakátok.
+
+  Most tudd meg ezt és tudd meg merre mentek
+  Testvéreid az emberek, szegények.
+  De azt parancsolom neked utolszor,
+  Halál helyett kiáltsd ujjongva, élet.
+  Mi elveszünk mind. Én is cihelődöm
+  És csomaglom csöndesen a ládám.
+  De te maradj itt és beszélj helyettem,
+  Kit embernek neveztelek, kis Ádám.
+
+
+
+
+ŐSZI KONCERT
+
+
+ŐSZI KONCERT
+
+PRAELUDIUM:
+
+  Sírj őszi vers… Sírj mindakét szemem,
+  Sírj őszi koncert, zengő zeneverseny.
+  Most itt az ősz és én vagyok az ősz
+  És régi bútól vemhes újra versem.
+  Beteg az arcom s beteg a dalom
+  És a múlást sápadva szomjazom,
+  Az életet, mely már csak félig-élet,
+  A hervadt holdat és a sírt
+  S a hűs napot, mely a holdnál sötétebb.
+
+  Beteg vagyok, szépségektől beteg,
+  Nem is vagyok más, egy beteg poéta.
+  Ha egyet nézek, elfakul a fény
+  És ferdül a nap, mint a hold karéja.
+  Ha kettőt nézek, hullik a levél,
+  És feltámad az, aki rég nem él,
+  Ha hármat nézek, az erdőn keresztül
+  Szél száll és kiszakad a köd
+  És a világ fázlódva összerezdül.
+
+  Most a ligetbe bolygok délután
+  És úgy jövök meg, mint egy temetésrül,
+  Talpig fekete gyászoló ruhám
+  S vörös szemem a könnyektől sötétül.
+  Fekete kalap és egy lomha bot,
+  S én révedten, álmodva ballagok.
+  Levelük a fák az aszfaltra sírják
+  És csengenek és zengenek
+  Az utolsó neszek, az őszi trillák.
+
+*
+
+INTERMEZZO:
+
+  Most tetszenek nekem az üvegek:
+  Mély délutánban oly mélyen tüzelnek.
+  Most tetszenek a sárgahajú nők
+  Sugárzásán szeptemberi tüzeknek.
+  Most tetszenek nekem a temetők,
+  Az elborult szobák bús, barna színben,
+  A haldokló fák szörnyü kórusa
+  És tetszik a föld és mindenki, minden.
+  Most dalol az ősz s én is dalolok,
+  Lalláz az ősz lassú litániát.
+  Most dalol az ősz, dalol a szivem,
+  Dalolni kezd most az egész világ:
+
+A FÁK:
+
+  Mult este kezdődött a rékviem.
+  Poros és szürke volt az alkony
+  A görbe fénybe mentek hazatérők
+  És béna vágyak mentek lomha mankón.
+  Mult este kezdődött a rékviem.
+  Mult este volt, igen, igen.
+
+A TÓ:
+
+  Mult este volt,
+  Elbújt a hold
+  És megfagyott a csendtől a vizem.
+  Mult este kezdődött a rékviem.
+
+A FOLYÓK:
+
+  Hazátlanul fütyültek
+  A ködben a hajók.
+  Keresve egymást sírva jártak,
+  Mint a kisértetek, az árnyak
+  S az ég, a föld úgy hallgatott.
+  És habjaim remegve összebújtak,
+  Akár a félő gyermekek
+  És sírdogáltak hajnalhasadásig,
+  Mind könnyezett, mind könnyezett.
+
+A TÓ:
+
+  És a víz a piciny hajókon
+  Olyan nehéz lett, mint az ólom.
+
+A LIGET:
+
+  És délután járt itt egy beteg ember
+  S azt mondta a fáknak, hogy őszre meghal.
+
+A RÉT:
+
+  A lég is megfeszült, mint egy üvegfal
+  És fedve voltunk fénnyel, tiszta csenddel
+
+A HÁZAK:
+
+  Mi is elbújunk a homályos égbe
+  És összeszorulunk, mint a csigák
+  És alkonyórán, alvó ablakokban
+  Fellobban a langyos lámpavilág.
+  Most a cseléd is elborulva nótáz
+  S az emeleten égő vasalót ráz
+  Vöröslő tűz-körökbe
+  És aki megtér elhagyott szobánkba,
+  Itten marad örökre.
+  A nő imádkozik, a férfi bámul
+  És jeleket les a jós éjszakábul.
+  Ügyetlen újjon bukdácsol a skála,
+  Az eső is skálázik egymagába
+  És a diák fönn egyedül
+  Egész éjszaka hegedül.
+
+AZ ABLAKOK:
+
+  Mi is siratjuk őt,
+  Siratjuk, aki itt lakik,
+  A nyárt, a nyári álmait.
+  Mi is siratjuk őt.
+  Gyászoljuk őt és dobolunk,
+  A szél, az éj üvegdobunk.
+  És sírnak rá az üvegek.
+
+AZ ÉG:
+
+  És az eső is megered.
+
+A VIHAROK:
+
+  Már vérzik a nyár,
+  A vénülő asszony.
+  Szél a haraszton.
+  Kár érte, be kár.
+  És rebben a sóhaj,
+  Jaj várjatok, ne még.
+  És lombtakaróval
+  Takarja tar fejét.
+  Haha, haha,
+  Hull a haja
+  És vézna arca hóka.
+  Fején vörös paróka.
+  Jó éjszakát.
+  Minden csupa árnyék
+  És ő, a világszép
+  Már festi magát.
+
+AZ UTCÁK:
+
+  Rajtunk a szél, a vak őrült kalandoz.
+
+A PÁLMÁK:
+
+  Mi még hiszünk s imádkozunk a naphoz.
+
+A VIRÁGOK:
+
+  Mi mitse várunk s mondjuk csendbe: jóéjt,
+  S borzongva isszuk a hűs, őszi holdfényt.
+  Jóéjt virágok és jóéjt világok,
+  Lázas lányok, halotti húgaim.
+  Jóéjt testvérek, őszi rózsa,
+  Bús rezeda, dús kankalin,
+  Buja thuja, szegény beteg ciklámen
+  Most haljatok meg.
+
+AZ ESŐ:
+
+Kip-kop.
+
+A FELLEGEK:
+
+Ámen, ámen.
+
+*
+
+A FÉRFI SZÓL:
+
+  – Nézd, nyáron azt mondtam magamba:
+  De szép lesz ősszel, ha beteg leszek.
+  Jő valaki, ki csendes és beteg
+  S megnő a házunk, ez a bús, csodás ház
+  S a szél bongó telefondróton hárfáz.
+  Behull a meseházba a verőfény
+  És fűtjük arcunk bibor téa gőzén.
+  Vagy hintázunk a csendes hintaszéken,
+  Vagy álmodunk az elhagyott verandán.
+  Te hímezel s sötét arcomra bámulsz,
+  Amit tűzfénybe von nehéz havannám.
+
+  – Nézd, nyáron azt mondtam magamba:
+  Majd jő valaki, ki szeret talán
+  És sárga fák közt járok lábbadozva,
+  S járni tanulok egy nő oldalán
+  Tipegek és ha félek hazamenni
+  És kertjeinkben árnyra árny oson,
+  Hazavezet és megcsókolja számat,
+  Gyógyítva csókol a mély folyosón.
+  És félti szám, mint egy szelíd sebet
+  És csendben eltol, ha csókot adok
+  És tiltva teszi ujját ajakára,
+  Mert betegnek árt, jaj árt a csók.
+
+  Most itt vagy és vagy betegápoló,
+  Csókkal gyógyító beteg-apoló.
+  Csók, zavaros must, mézes, mérges, édes –
+  Csak sose lenne a csóknak szünetje –
+  Hajh nyári láz, hajh bús delirium,
+  Csókok szüretje, életem szüretje.
+
+*
+
+A NŐ SZÓL:
+
+  De én szeretlek édes emberem,
+  Az életem gyógyítja a tiédet.
+  Gyógyítja egyik száj a másikat,
+  Gyógyítja egyik kéz a másikat,
+  Gyógyítja egymást két szegény kis élet.
+  Gyógyítja a vad, lázas bor a lázat,
+  A bűnt a bűnnél is búsabb bocsánat.
+  Gyógyítja a vak éjszakát a nap,
+  Gyógyítja a sziklákakat a patak.
+  Gyógyít a fény, a láng, a lég, a jég,
+  Ha ráborul a tűz-gyötörte főre,
+  Gyógyítja a fű a beteg sebet
+  S a fekete hajat – a szőke.
+
+*
+
+FÉRFI SZÓL:
+
+  Makrancos munka, hogy gyűrűs kezed
+  Az ördögi cérnák között motoz.
+  Bukfencező csel, kínai kötés
+  És távoli, és titkos, és gonosz.
+  Egy kis manócska mindegyik kötőtű
+  S cikázó újjaid iramja gyors.
+  Te vagy, ki oldva-kötsz és kötve-oldasz,
+  Te vagy a sors, a sors.
+
+  Makrancos munka, női mánia,
+  Valami baljós, balos, ördögi.
+  Mit nem tudok, csak félve bámulok
+  És távolságunk tűkkel tükrözi.
+  Oly messze vagy te s e galambi játék.
+  Fehér fonál puha pamutba tőr.
+  Ki hal meg itten és miért e háló?
+  A tű az öl, az öl.
+
+  Makrancos munka, bújtó babona,
+  Alattomos, hisztérikus-merész.
+  Most sunnyogó, huncut, s igénytelen,
+  Mint lassu cica, hogyha egerész.
+  Játék a seb, játék a kacagás is
+  S komoly halál a díj egy kacajér.
+  És csillogó tűk, csillogó szemek közt
+  Hull-hull a vér, a vér.
+
+*
+
+A NŐ SZÓL:
+
+  Mit énekelsz? Kivel beszélsz megint?
+  Mit lát szemed az üres levegőbe?
+  Mit énekelsz? Miért siránkozol?
+  Hisz senki sincs itt, mért beszélsz felőle?
+  Mért nézed úgy két dombos melleim,
+  Mint temetőben a sírhalmokat,
+  Mily könnyeket törölsz szegény hajamba
+  És éjidőn micsoda riogat?
+  Miért beszélsz mindig feketeségről,
+  Mért látod szőke fürtöm feketén?
+  Most sír vagyok és egy halotti urna –
+  Mondd, kit temetsz belém?
+
+*
+
+A FÉRFI SZÓL:
+
+  Én eltemettem, édesem, beléd,
+  Kit most borzongva hívok újra vissza,
+  Mint halvány lángnál bomló spiritiszta
+  Halottjai kisértő szellemét.
+  Én eltemettem, édesem beléd,
+  Vidám szemedbe az ő bús szemét,
+  A te hajadba az ő dús haját,
+  Karját karodba
+  S most mind a pompa
+  A te szegény testedbe suhan át.
+
+  De lásd, fejemen most a mult cikáz
+  És lelkem száll, a végtelenbe túl,
+  Száz idegem megint feléje nyúl
+  S mint beteget elönt az esti láz.
+
+A NŐ SZÓL:
+
+  Pokoli éj:
+  Iszonyú, iszonyú
+  Az éjszaka mi mély,
+  Csupa láng és ború,
+  Halálharag, lég-háború.
+  Iszonyú, iszonyú.
+
+A FÉRFI SZÓL:
+
+  És most megint elémbe jő –
+  Egy pillanatra – s régi minden,
+  Hervadtan és halotti ingben
+  Kopog-kopog az ősz, meg ő.
+
+A NŐ SZÓL:
+
+  Ó jaj, te félsz,
+  Kiről beszélsz?
+
+A FÉRFI SZÓL:
+
+  Idézem őt!
+  Gonosz, hazug kezét idézem.
+  Idézem őt!
+  Ezen a poklokszülte éjen.
+  És kék szemed fekete lesz.
+  Hajad sötéten csergedez.
+  Hozzá hasonlít gyenge főd
+  S a levegőben érzem őt.
+  Parancsoló árny, félig szent valóság,
+  Félig szeszély.
+  Most párka, végzet s a kezében orsó.
+
+A NŐ SZÓL:
+
+Beszélj, beszélj!
+
+A FÉRFI SZÓL:
+
+  Ó, hogyha láttad volna egyszer
+  Amint könyezve, mereven,
+  Imádkozó, áldott kezekkel
+  Letörte én áldatlan életem.
+  Ó, hogyha láttad volna egykoron,
+  Mint mostan én az arcodon.
+  Igen, ilyen volt: festék és hamis máz,
+  A szája egy kis rózsaszínű szinház.
+  Villanylámpácskák gyultak a fejében,
+  Ha nevetett,
+  Rózsásvilágos lett a levegő is
+  Feje felett.
+  Tükrökbe nézte furcsa-gonosz arcát,
+  Mély tükrök mélyiben
+  És az ezüstmámortól szertepattant
+  A tükör és szivem.
+  Megfeketült a mellemen a rózsa,
+  Amit adott
+  És ráncos lett, mint egy vénasszony arca
+  S halott, halott.
+  És megvakult kezében
+  Az ezüst és arany…
+
+A NŐ SZÓL:
+
+  Csitt-csitt, elég.
+  Mostan belép
+  S közénk ül szótalan.
+
+*
+
+A FÉRFI SZÓL:
+
+  Te egy vagy azzal, ki mindnyájunk anyja
+  És nem mint én, ki tőle idegen,
+  Ki férfi-fejjel komorlok a létbe,
+  Dult csillagokba nézve mereven.
+  Te szent vagy és dal és harmónia.
+  Én a természet mostoha fia.
+  Nekem beszélni kell és sírni, sírni,
+  De a te némaságod szónokol.
+  Virág vagy és patak vagy, déli nap vagy
+  Üvegszekrénybe kincs, üvegcsokor.
+  Te bútora vagy elhagyott szobámnak,
+  Én gondolatkaosz.
+  Te élsz, ahogy a csillagok s a férgek
+  S nem vagy se jó, se rossz.
+  Te szép vagy és nő vagy, hevítő vagy
+  És hordozója százezer tavasznak.
+  Én kincseim közt nesztelen didergek,
+  De te mezítlen vagy királyi-gazdag.
+  Te néma vagy s úgy nyúlik el aranyló
+  Ovális tested a kereveten,
+  Mint egy gömbölyű, forró, eleven
+  Tengermorajt százszorzó, drága kagyló.
+
+*
+
+A NŐ SZÓL:
+
+  Nézd őket… Ah, míg várunk a vonatra
+  Hogyan cicáznak kormos árnyaink.
+  A kavicsok közt, a fényes sineknél
+  Zöld csillagunk meddő sugára ing
+  És úgy folyik a fénye arcainkra,
+  Mint beteges, halványzöldszínű tinta.
+  Folyik a holdfény,
+  A rég kiholt fény
+  S lenn összesímul két alak
+  Sötét tagokkal, hallgatag.
+  Nézd, most húzódva messze távolodnak,
+  Most összeér árnyék-kezünk.
+  S ölelkeznek – szegény, szegény bolondok.
+
+*
+
+A FÉRFI SZÓL:
+
+  Ó jaj, mi is ölelkezünk.
+
+*
+
+A FÉRFI SZÓL:
+
+  Ez itt a korzó.
+
+                  Itt egy hervadó kert,
+  Mely érzi már a gyilkoló októbert
+  És sejtelmétől is oly halovány.
+  És fái közt olyan betegen illan
+  Az őszi nap, a sárga, őszi villany,
+  Bágyadt villanyfény haldokló szobán.
+  Lábujjhegyen járjunk most mindaketten,
+  Mert fájdalmas lelkembe meggyötörve
+  Bámulva nézi önmagát az ősz,
+  Mint egy kisérteties, mély tükörbe.
+
+  Ez itt a korzó.
+
+                  Most tekints körül
+  S nézd a parázsló brilliántot, édes.
+  Nyiltan közönnyel, bátran, ahogy illik
+  Egy hypermodern költő kedveséhez.
+  Ott vannak még a nyártól züllött ernyők,
+  Halványpirossal, kiszíttan, fakón.
+  A kánikula sok-sok martaléka,
+  Egy kerti szék az őszi udvaron.
+  Rongyok, remények, megpörkölt rakéták
+  És cigarettavégek és szivek.
+  Fölöttük az árny, a halál, az éjjel
+  És a hideg, a szomorú hideg,
+  Itt egy kávéház fázó publikummal,
+  Ott meg az irodalmi emberek,
+  Kik szivarozva, szigorú szemölddel,
+  Szegény hullám fölött veszekszenek…
+
+*
+
+A NŐ SZÓL:
+
+  Én odamegyek és megkérem őket,
+  Hogy tégedet nagyon szeressenek
+  És értsék meg vívódó éneked.
+  Én odamegyek és megkérem őket,
+  Pajkos kacajjal, mint egy éji tündér,
+  Hogy lássanak be fátyolos szivedbe
+  S szeressenek elátkozott szivünkér.
+  Általkarolom csendesen a lábuk,
+  Az életed szelíden elmesélem,
+  Hogy megriadjanak és tág szemekkel
+  Bámuljanak reám az őszi éjen.
+
+  Mert szép a lelked régi bánatoktól,
+  Oly édes és jó, mint a tiszta óbor.
+  Ó én tudom ki vagy te és mi vagy te,
+  A te dalod rezgő rezedaillat.
+  Pünkösd a kedved, templom a szived
+  És hogyha szavad néha elijed,
+  Előtted szellemek és árnyak ingnak.
+  Én láttalak és nagy vagy és hatalmas,
+  Ha néha álomlátón hátra-hajlasz,
+  Én láttalak a kulcslyukon keresztül,
+  Hogy átölelt sok lenge látomány
+  És egy tekintetedre
+  Halványan és remegve
+  Bús angyalok röpültek a szobán.
+
+*
+
+INTERMEZZO.
+
+  Gyümölcsös ősz – –
+                  Te vérző, koszorús –
+  Én hódolója vagyok a gyümölcsnek.
+  Szeretem a virágok táncait,
+  De az érett gyümölcs mély szava bölcsebb.
+  Ő már a cél, a szín, a hervadás.
+  Nyarak alusznak benne s cukrok íze
+  S remény, öröm, valóvá semmisítve
+  Ő már a vég, az állomás, a nász.
+  Én szeretem az égő-fiatalt,
+  De várva-várom a bús diadalt,
+  Az utolsó-halálost, szomorút,
+  Mely lelkemet te hozzád igazítja
+  Tedd, vérző ősz, nehéz fájdalmaimra
+  És életemre komoly koszorúd.
+
+A NŐ SZÓL:
+
+  Ne sírj, ne sírj. Ah én nem értelek
+  Csak érezem, hogy fáj s valami jajgat.
+  Szavaid sokszor félve hallgatom,
+  Csodálkozom az elröpült dalon
+  S idézem a világgá szállt siralmat,
+  Mely a szivedből jött – érintve szádat –
+  És mély, mint a halál, a jaj s a bánat.
+
+  Ne sírj, ne sírj. Ah én nem értelek,
+  Gyümölcs s öröm közt édes a halál.
+  És szép a gyász, a félő suttogás,
+  A dal, ami remegve tétováz
+  És azután szédűlt magasba száll.
+  Nézd, hogy ragyog ránk ez a cifra bál.
+  E pirossárga, őszi karnevál.
+
+*
+
+A FÉRFI SZÓL:
+
+  Boldog, pogány nő, boldog százezerszer,
+  Ruhák között is százszor meztelen,
+  A hervadásba nyúló buja csókfa,
+  Megrészegűlő bíbor levelen.
+  Örült menád – kavargó fürteidben
+  A régi lázak láza szálldogál.
+  Szüretre zendül minden táj körötted
+  Csiklandja orrod erjedt muskotály.
+  Ó örökegy, – ó ősi titkot érző –
+  Ó változó kép – táncos tünemény –
+  Te látod még a régi, részeg istent
+  Őrjöngve párduc-szekerén.
+
+  Én másra leltem. Isten s ember nélkül
+  Daloltam ezt a férfi-éneket,
+  Hogy hallottam szívemben s a bokorban
+  A csendet, amely rajta lebegett.
+  A végtelenség bús hárfája lettem
+  És összegyűlt minden jaj a szivemben
+  S mostan viszik-viszik e kis dalok
+  És belezüllnek, meghalnak sóhajtón
+
+*
+
+AZ ÉG, AZ ŐSZ, AZ ÉJ:
+
+  Tücsökcirippelés egy régi ajtón,
+  Amit mindenki elhagyott.
+
+
+
+
+ÉGI KALANDOK
+
+
+EGYRE KÖZELEBB
+
+  És egyre-egyre közelebb
+  Megyek feléd, halál
+  S már ki se ejtem nevedet.
+
+  Ifjan beh sokszor hivtalak
+  S lázam hűsíteni
+  Fejemre raktam a havad.
+
+  Most már sírokra sem ülök,
+  Mosolygok lankatag,
+  Míg fáradok és szürkülök.
+
+  Híredre lelkem nem riad,
+  Nem vagy már szörnyű se,
+  Apa vagy és én a fiad.
+
+  Oly egy veled e meggyötört
+  Szív és e mellkosár,
+  Mint egy veled a rög s a föld.
+
+  Ó a halál az, aki vén
+  S koporsó-érc ragyog
+  Jégszín haján, bús ajkivén.
+
+  És egyre-egyre közelebb
+  Megyek feléd, halál
+  S már ki se ejtem nevedet.
+
+
+EGYÜGYÜ ÉNEK
+
+  Ma láttam én a holtakat,
+  A régen-régen voltakat,
+  Mezítlenűl és feketén,
+  A hullakamra fenekén.
+
+  Az egyik azt mondotta: jaj,
+  Fején izzadt volt még a haj.
+  A másik azt mondotta: jó,
+  Áldott halál, lágy takaró.
+
+  Én mondtam: édes véreim,
+  Megcsöndesült testvéreim,
+  Sok férfi, nő, agg, kisgyerek,
+  Elromlott, szent játékszerek.
+
+  Egymás fölött feküdtek ők,
+  Nyílt szemmel, árva csecsemők,
+  Ki szülte őket, ottan áll,
+  Kegyetlen anyjuk, a halál.
+
+  Az arcuk tompa és suta,
+  A lábukon egy cédula,
+  Szakállasak és vállasak,
+  Mosolyosak és árnyasak.
+
+  Nincs jaja ennek, sem hire,
+  Nem várnak ők itt semmire,
+  Egyik kövér, másik sovány,
+  Mind földbe járuló, pogány.
+
+  Nem szörnyű már, nem is csodás,
+  Nem őrület, lidércnyomás,
+  Se feketeség, se derű.
+  Csak egyszerű. Oly egyszerű.
+
+  Nem sírtam, nem nevettem itt,
+  De ezt a vallást tettem itt.
+  Ma láttam én a holtakat,
+  A régen-régen voltakat.
+
+
+ŐSI… RÉGI…
+
+  Kibújt a hold. Most néki mennek
+  A vágyaim a végtelennek.
+
+  Jaj, hogy mehetnék. Semmi célom
+  Ábránd a vágyam és acélom.
+
+  Babonás vágy űz, ősi, régi,
+  Két ezredéves hősi, égi.
+
+  Lennék kisértet, jámbor évek
+  És árnya egy szent remetének.
+
+  Megállanék bús ablakoknál
+  A csendbe, hol egy légy motoszkál.
+
+  Rohannék messze, egyre meszébb
+  És tévedeznék, révedeznék.
+
+  Vágnék nyugatnak, napkeletnek
+  És várnék, amíg elfelednek.
+
+
+CSILLAGOK
+
+  Diákkoromba, vékony kis legényke
+    Fölnéztem a didergő csillagokra,
+  Mik fázva égtek fönn a téli éjbe.
+
+  Lengett nyakkendőm könnyü-furcsa csokra
+    S én csak rohantam, sápatag-fehéren,
+  Vásott köpenyben, éhesen rajongva.
+
+  Jaj, elbeszélni nem tudtam, mi nékem –
+    Oly ájuló-mély bűvöletbe estem –
+  A csillagfény a bús, kopott vidéken.
+
+  Most járok itten, tiszta, téli esten,
+    Prémes bundába és megváltozottan
+  Dús vacsora ízével, Budapesten.
+
+  Még most is ég a csillag, ahogy ottan,
+    Arany tüzekkel ékszeres az égbolt,
+  Csak én nem égek, aki úgy lobogtam.
+
+  Álmos szemem keresi fönn a rég-volt
+    Csodákat és oly búsan mondja szívem,
+  Hogy nékem már a csillag is sötét folt.
+
+  Vak vágyam mégis fölfelé feszítem,
+    A kis diákdalt újra sírva zengem
+  S kihunyt arcom fölmutatom szelíden,
+
+  Ó csillagok, ismertek-e még engem?
+
+
+ÉJI RIADALOM
+
+  Hajnal, éjfél közt ocsúdva mély sötétbe fölriadtam
+  S az ablakból kihajolva bámultam, két óra tájt.
+  Mind aludtak, langyos éj volt, nesztelen, halotti-csöndes
+  És a gáz arany dsidával silbakolt az útakon.
+  A másik ház emeletjén szembe vélem egy ebédlő,
+  Az ablakja tárva-nyitva, halkan ég a villanya.
+  Véghetetlen, érthetetlen áll a kép az éjszakában,
+  Mint üres és furcsa szinpad, a szereplők nyugszanak.
+  A pohárszék hosszu árnya mozdulatlan nyúl a falra,
+  A márványlapon darab sajt és fölötte sajtharang.
+  A falon szorgalmasan jár egy polgári ingaóra,
+  Sétálója sárgarézből és egész hozzám ketyeg.
+  Arra gondolok, kik élnek itt, akiknek házi titkát
+  Egy szorongó éji órán mindörökre ellopom.
+  S megriadva kémlelődöm, mért e zajgás, mért e fájás,
+  Hogy a szám se tud beszélni s száj helyett beszél a szív.
+  Volt nekünk is sajtharangunk és volt kedves ingaóránk,
+  Mely szelíden járt az éjbe, míg aludtunk, gyermekek.
+  Most, álomtalan kesergő, nézem ezt a titkos órát,
+  Itt a hangtalan magányba hálóingbe hallgatom
+  És azon jár álmos elmém, hogy a föld száguld az ürben,
+  Óriás, zúgó robajjal mind ijedve vágtatunk,
+  Én, ki nézem, az, ki alszik, sajtharang és ingaóra
+  S reszketek, hogy életünk csak negyven, ötven, hatvan év.
+
+
+BOHÓC
+
+  Lecsuklik minden pilla most,
+  Nem is találsz több villamost,
+  Igy járok én is itt, gyalog,
+  Köröttem olcsó angyalok.
+  Kármin, sáfrány, körúti nők,
+  Selyem harisnyák rossz cipők
+  S ami búsítja bús dalom,
+  A fanyar arcon fájdalom.
+
+  Ha a sír szavát hallanád,
+  Nem hallanál ily balladát.
+  Egy árva költő tévelyeg
+  S itt méri a mély éjeket.
+  Egy görbeutcán remegőn
+  Járkálok mint a temetőn.
+  Ó élet! sár! láz! csúnya út!
+  A vége és a mélye rút.
+
+  De jó itt, mert ez utca fáj
+  És szép, mert téboly ez a táj
+  S álarc alól mártir-szemek,
+  Testvér szemei rémlenek.
+  Festett az arcom nékem is
+  És szenvedés az ékem is.
+  Jaj, a költő gyomrába kóc,
+  Ő is beteg és torz bohóc.
+
+
+MINT
+
+  Mint a beteg, ki néha visszagondol
+    Egészségére s könnyez és nem érti,
+  Úgy gondolok én vissza bús soromból
+    Az ifjúságra, lankadt lelkü férfi.
+
+  Jaj, az enyém volt-e a régi hársfa,
+    Amelyre a vidéki éj aláfolyt,
+  S én voltam-e a lánynak útitársa,
+    Cigányhaján ki hordott lila fátyolt?
+
+  Csak színezem tovább a régi hársfát
+  És életemnek régi-régi társát,
+  Mint a beteg, ki forró és fanyar
+
+  Lázába édes képeket kavar
+  És álmodik, hogy jár a dombok alján,
+  Előtte a kutyája s bot a karján.
+
+
+ÁRNYAK FEHÉR PROCESSZIÓJA
+
+  Árnyak fehér processziója.
+  Te titkos és halk körmenet,
+  Mért hoz elém most minden óra?
+
+  Ó, jaj, mi ez? Ó, hogy lehet,
+  Hogy őket én mind elfeledtem,
+  Hisz társaim, hisz emberek.
+
+  Suhognak óriás seregben,
+  Ködfantomok, bús, vézna nép,
+  Mind ismerős és ismeretlen.
+
+  Egy-egy ember utamba lép,
+  Hallok sok elnémult, csodás szót
+  S úgy zeng, ahogy a multba, rég.
+
+  Kis társaim, ti porba játszók
+  Emelve sápadt fejetek
+  Az őszi kertekből kimásztok.
+
+  Hervadva, búsan, réveteg
+  Lányok merülnek föl az éjben
+  S nagy, néma szájuk rám mered.
+
+  Görnyedten ülök s sírva nézem,
+  Hogy tünedeznek szüntelen
+  És száll-lebeg velük fehéren
+
+  Az életem, az életem.
+
+
+REGGELI ÁLDÁS
+
+  Most kávé kellene. Pillés és enyhe kávé
+    És egy nyugalmas, fekete szivar.
+  Hogy oly lázzal, mely ezer éjszakáé,
+  Azt mondjam a kelő reggelnek: ávé,
+    Az ébredés lázadt szavaival.
+  Künn köd. Regényes, reggeli roráté.
+    Itt benn a gyertya olyan halovány.
+  Fakó fal. Álmos ágyak. Örökös csönd.
+  Egy keltőóra, amely felcsörömpölt
+  S most süketen vár és ver tétován,
+  Hogy beleborzong fütetlen szobám.
+
+  Ver a szivem… Órám is egyre ver még.
+    És fojtogatja torkom az öröm.
+  Micsoda ez a régi-régi emlék?
+  Dalolni és sikoltani szeretnék
+    És szállani a hajnali ködön.
+  Csiklandja mellemet, oly édesen tép,
+    Mint bús gyerekkorom emlékei,
+  Hogy álmosan gondoltam még az éjre
+  S petyhüdt arcom a mosdó vize érte
+  S szaladtam volna ki, a ködbe ki,
+  A nagy megindulást köszönteni.
+
+  Még nincsen itt. De jön. Hajrá a reggel.
+    Még csupa folt és csupa sejtelem.
+  Nyomott szivem hozsannázva remeg fel,
+  Füstöl az út gyászkandeláberekkel
+    És holt magány kong árva tereken.
+  Ilyen magányt nem látott soha ember,
+    Ez a magány csak én velem rokon.
+  Gázlámpasor virraszt kihalt utaknál,
+  Az éj mellett ravatalgyertya barnál,
+  Igy megyek az ájult fővároson
+  S utolsó álmát félve meglopom.
+
+  Fekete bársonyok közt éji pompa.
+    Oly nesztelen, oly csendes és kopár,
+  A kórházakba lámpa leng lobogva
+  Virrasztó lángok távol ablakokba
+    És éji fényük fájón folydogál.
+  Félő kaszárnyák bújnak össze sorba,
+    Mik éjjel is úgy álltak az uton
+  És szundikálnak, lomha, furcsa szörnyek,
+  Dermedt nyakuk sután előre görbed,
+  Kinos vonaglás reszket álmukon…
+  De itt a reggel, én, csak én tudom.
+
+  Egy bérkocsin rohanok most elébe
+    Lihegve lesem, merre érkezik.
+  Külvárosokban bújok fázva-félve
+  És belenézek szürkülő szemébe,
+    Megcsókolom didergő térdeit.
+  Jaj, merre jön? Jaj, az utamba tér-e?
+    Itt már az éjjel fátyola szakad.
+  Fáradt leányok, éjjeli pincérek,
+  Ődöngő korhelyek, kik hazatérnek,
+  A percenő fényt várom sápatag,
+  Nehézszagú, sötét tetők alatt.
+
+  A szívemet széttépem száz darabra
+    S az ébredőknek mind odavetem.
+  Az első villamos robog, hozsanna,
+  Egy kiscseléd lámpát gyújt a magasba
+    S zöld fénybe motoz az emeleten.
+  Áldott, aki a reggelt nékem adja,
+    Áldottak e bús, fáradt emberek,
+  Kik élnek és hozzám hajolva lágyan,
+  Szelíd kezekkel hűtik éji lázam,
+  Áldottak az alvók, a csendesek
+  S áldottak, akik menni kezdenek.
+
+  Áldottak ők. Áldott, ezerszer áldott
+    E decemberi deres virradat,
+  Mely most szivembe, ahol minden átok,
+  Világot gyújt és nyújt egy jégvirágot,
+    Nekem, kinek már semmi sem maradt.
+  Áldott mindenki, zokogok, kiáltok
+    A tiszta lázak zengő reggelén,
+  Áldott a szívdobogtató és szürke hajnal,
+  Mely most megindul sejtető robajjal
+  S éj nap között, igy, még egész enyém
+  S áldott a föld és áldott legyek én.
+
+
+LÁNGOK KÖZÖTT
+
+  És fekszem itten betegen.
+  Ágyamra fény cikáz,
+  Bús villogását ismerem –
+  Ez a tavaszi láz.
+
+  A láz, a gyász bennem cikáz –
+  Ez a sötét tavaszi gyász.
+  A szemeim oly könnyesek
+  S tündöklő arcom csupa seb,
+  Tüzespiros, vágyó-fehér.
+  Amerre nézek, csupa vér.
+  Fülemben mézes, buja szók.
+  Az ajkam könny, láng, csupa csók.
+  S a lelkem: az csupa zene
+  És a kezem
+  Oly vértelen,
+  Mint egy beteg leány keze.
+
+  És újjam, újjam szótlanul –
+  Halk, tiszta gyertya – lángra gyul
+  És tavaszi ligetek árnyán
+  Lobog a zöld homályban árván –
+  Most a te szájad érezem,
+  Egy lángkaréj beteg kezem
+  S a tűz, a láng karjába fog – –
+  És lángolón és álmodón
+  Sötétlombu oltárokon
+  Én is, én is fellobbanok.
+
+
+A MAGÁNY PAPJA
+
+  Itt a magányban újra megtaláltam
+    Bolyongva síró, tévedt lelkemet
+  És hull a könnyem csendbe, lassu árban,
+    Mint bús mezőkre a halk permeteg.
+
+  A földre fekszem s bámulom a fákat,
+    Könnyezve, dultan jő a szerelem.
+  S hogy a kongó mezőn senki se láthat,
+    Sötét dalok tömjénét égetem.
+
+  Holt bánatom hamvát fejemre hintem,
+  Sivár imákba görnyed a gerincem,
+  A multak gyászmenetje felkeres.
+
+  S merev ajakkal hallgatok kevélyen,
+  Magamra húzva éjsötét kedélyem,
+  Mint zord csuháját a bús szerzetes.
+
+
+SZONETT EGY SZOBORRA,
+
+MELY AZ ÁLLÓ DANTÉT ÁBRÁZOLJA
+
+  Egykor mi is majd igy fogunk megállni,
+    Mint ez a kőben szenvedő alak.
+  Leroskadó, merev ivek csodái,
+    Siró tagok, jajongó vonalak.
+
+  Igy meredünk meg bánatunkba halkan,
+    Mikor az égre-orditás kevés.
+  A fájdalom ez, néma, mozdulatlan,
+    A végtelenbe beledermedés.
+
+  Az önmagába fúló néma Kin –
+  Az ős Szükség a végzet partjain –
+  Hátrálni nem tud s nem előremenni.
+
+  Önroncsain bús diadallal áll
+  S nincs fogcsikorgatás – és nincs halál –
+  Nincs békülés – és nincs könny. Ez a Semmi.
+
+
+A SZŐKE NŐ PORTRÉJA
+
+  Csitt – fel ne keltsétek. Hisz alszik, alszik.
+    Bús boldogságát eltemette rég.
+  Fekete csipkéin pici aranyszív.
+    Úgy nyújtja ki sápadtarany fejét.
+
+  Alvó szemében megholt, régi átok.
+    Békébe fáradt bánat borúja.
+  Miért ezek a halk szomorúságok?
+    Ki tudja, mért a fátylas gyászruha?
+
+  Csitt, csitt – a kacagása oly merengő
+  A szava halk, ezüstös mise-csengő,
+  Nincs szívtelenebb és nincs szomorúbb.
+
+  Ha cseng, ha zeng, térdére hull a szépség
+  S ő mint hatalmas aranykoszorút
+  Némán viseli gőgös szőkeségét.
+
+
+VÉNSÉG
+
+  Nem így képzeltem. Furcsa, csúnya szörnyet
+    Gondoltam én és fáradt öreget,
+  Aki köhögve a botjára görnyed
+    S hátán a régi rőzse integet.
+
+  De most hogy itt van, még százszorta szörnyebb,
+    Mint a mesébe, néma és meredt,
+  Majdnem derűs és kedves, azzal öl meg,
+    Hogy vár az iróasztalom megett.
+
+  Mert ennyi csak: ha eljön a tavasz,
+  Megismerem, hogy mindig ugyanaz
+  S belényugodtam, hogy a láz elillan.
+
+  Nem sírok, ha az esték holdasok
+  És néha, hogyha éjjel olvasok,
+  Kissé homályosabban ég a villany.
+
+
+ÁLDOTT SZEGÉNYSÉG…
+
+  Áldott szegénység, te szelíd, te tiszta,
+    Elhagytál s én is, jaj, elhagytalak.
+  Most úgy idézlek, mint a spiritiszta,
+    Éhes, sovány és légies alak.
+
+  Mert úgy szerettél, hogy rajongva vissza
+    Hivlak, te bátor, rongyos és szabad,
+  Ki keserű poharát daccal issza
+    S tűzzel fakadnak száján a szavak.
+
+  De merre vagy? Most tán még mostohábban
+  Laksz egy sötét és vak diákszobában,
+  Olcsó szivart rágsz, vagy tán verset írsz?
+
+  Vagy tán fekéllyel fekszel a szeméten,
+  Vagy mit se várva ifjan és setéten
+  Egy bús asztalra ráborulva sírsz?
+
+
+AZ ÁTKOZOTT HÁZBAN
+
+  Jaj, jaj micsoda bánat ez.
+  Ki hagyta rám, ki hagyta rám?
+  Úgy vesz körül, mint néma ház
+  S már ki se nézek ablakán.
+
+  Már ki se nézek ablakán,
+  Ezen az átkos ablakon.
+  Az ablaka könny, csupa könny
+  S e ház, e ház a fájdalom.
+
+  E ház, e ház a fájdalom
+  Nem is megyek innen tovább
+  És szeretem únt képeit
+  És bágyadt, barna bútorát.
+
+  Sok bágyadt, barna bútorát,
+  Amelybe lassan átfolyok,
+  Mint este, ha bezárkozunk
+  És leeresztjük a rolót.
+
+*
+
+  Úgy fekszem itten most az ágyon,
+    Mint egy rosz, összekötött ördög.
+  Kényszerzubbony nekem a sorsom
+    És benne esztelen dühöngök.
+
+  Megátkozom a születésem,
+    Szájaskodó, zavart szavakban
+  S szivemben egy égigsötétlő.
+    Égigsötétlő, szörnyű kard van.
+
+*
+
+  És néha úgy beszélek már magamról:
+  Ő szenved itten és Ő elmegy innen;
+  És néha látok még egy régi képet,
+  Egy idegen arcot a szemeimben.
+  És néha látom: hogy megy Ő az utcán
+  Lógó karokkal s mondom: vége, vége.
+  És néha látom: hogy búsul magában
+  Egy kiskávéház piszkos éjjelébe.
+  És néha megsiratom özvegy ágyát –
+  Hajnalban az ágy, mint egy pihenő sir. –
+  És néha szólok: Ő nyugodni tért már,
+  És mondom: Ő bánt engem s mondom: Ő sír.
+
+
+AZ ELLENSÉG
+
+  Én tettem ezt. Hogy most leestem
+    És szemfedő vár és kereszt.
+  Azt mondom innen mégis: ámen.
+    Magam ura, én tettem ezt.
+
+  Szörnyű veréssel vert az isten,
+    De ellene nem vétkezem,
+  Szörnyebben az istenverésnél
+    Vert öngyilkos, bús két kezem.
+
+  Vert a kezem és vert a szájam,
+    Szivem korbácsa és nyila.
+  Néha úgy keltem magam ellen,
+    Mint egy cudar haramia.
+
+  Most itt vagyok. A bús határnál,
+    És sorsomat bennem keresd.
+  Mondd: ámen, övé a koporsó.
+    Mondd csöndesen: ő tette ezt.
+
+
+
+
+KÁRTYA
+
+
+KÁRTYA
+
+A KÁRTYÁS FELFOHÁSZKODIK:
+
+  Ó színek színe, ördög bibliája
+    Fújd meg lelkembe roppant riadód.
+  Ó szívek szíve, züllött, furcsa szívem,
+    Vidd az ördöghöz drága véradód.
+  Puffadt erszényed, mely vértől hizott meg,
+    Az élet asztalára dobd oda
+  És hogyha aludt a sors ezer évig,
+    Mostan történjen végre a csoda.
+  Vesztett csaták, vér és kudarc után
+    Más nem maradt, csak ez még és a semmi.
+  Ó érzitek-e, micsoda e hívás:
+    Szaladni, úszni s menni, menni, menni,
+  Örökre folyni örök körfolyásban
+    Ujhódni, veszni, hullni lefele,
+  Csók és halál, bús kezdet és búsabb vég,
+    Színkeverés, tánc és örök csere,
+  Lélekzeni parázsló oxigénben
+    És nézni, hogy minden hogy folyik el
+  És érezni, fejünkön a sisakkal
+    A harc előtt, hogy menni, menni kell?
+
+A KÁRTYÁS IMÁJA:
+
+  Valami van:
+  A változás.
+  Valami van:
+  Ami oly csodás.
+  Én veszhetek,
+  De nem vesz el ő
+  A félszemmel siró,
+  Félszemmel nevető.
+  Valami van:
+  Öröm és iszony.
+  Valami van:
+  A földi sikon.
+  Valami van:
+  Ezt érezem,
+  Tapintja velőm
+  És látja kezem.
+  És hirdetem
+  Búsan-vigan
+  És esküszöm:
+  Valami van:
+
+A SÖTÉT PÁRKA:
+
+  Három bús párka áll az élet utján
+    A nő, a kártya, a halál.
+  Ó sötét párka, fátylasarcu, rejtett,
+    Engem kötényed titka vár.
+  Nem kérdezem, tündér vagy-e, banya?
+  A szeretőm leszel száz éjszaka.
+  Az életem péntekjén felkereslek
+    Hozzád őrjöngve felfohászkodom
+  És kérem az igét, a szót, a kulcsot,
+    Lábadra ejtve ráncos homlokom.
+  Lassú nekem az élet – sokszorozd meg
+    És adj a láznál lázabb lázakat.
+  Oly titkos ez a kincsesláda, nyisd fel
+    És hulljon le az iszonyu lakat.
+  Pörögjenek most gyorsan minden orsók,
+    Lássak ragyogva, mint még sohasem
+  Mutass nekem most bölcsöt és koporsót,
+  Sötét ujakkal illesd meg a sorsot
+  És gombolyísd le lassú életem.
+
+TENGER ÉS VIHAR:
+
+  És néha vágtatunk, mint őrült tengerészek,
+  Recseg-ropog hajónk,
+  Kegyetlen vashajónk,
+  S hullámokon, ködön megyünk, örök merészek,
+  A szél, a köd jajong,
+  Hogy sir, jajong
+  És vasbordáival dacol a bús fedélzet.
+  Oda se könnynek, és oda se semmi vérnek,
+  Hurrah, tovább, tovább,
+  Mindég tovább, tovább
+  Csak nyargalunk vadul, mint bomlott tengerészek,
+  Sötét sziklákon át,
+  Millió poklon át
+  Szállunk tovább, tovább s szegény agyunk oly részeg
+  És rí a felleg is, és sziszeg a kötélzet,
+  Orditozunk: csodát!
+  Csodát, barbár csodát!
+  S csikorduló foggal csapunk neki a vésznek,
+  Káromkodunk, vérzünk, orkánok fütyörésznek,
+  Zápor zuhog, kén és pokol zuhog
+  S hurrah, hogy minden a habokba halt,
+  Habzsoljuk az otromba diadalt,
+  Mint részeg matróz a nehéz rumot.
+
+AZ ÉJ, AZ ÁLOM S A KINOK:
+
+  De éjidőn szörnyűket álmodunk…
+  Jönnek felénk piros kis ördögök
+  S tüzes vaspántba lüktet homlokunk,
+  Sárkányok üznek, krampusz ránk röhög.
+  Mint a fegyencek járunk szédelegve
+  Cselédlépcsőkön mocskos éjjelekbe,
+  Tengert iszunk s szomjunknak nem elég,
+  Éhségünket eteti az ebéd
+  Kincsek között, bársonyba, jóllakottan
+  Király ebédjén vagyunk éhesek
+  És ránk vicsorog a sötét sarokban
+  Egy tüzesszemü, ordas, éhes eb.
+
+SZEMÉT ÉS CSILLAGOK KÖZÖTT:
+
+  Ha emberek közé megyünk, fényes terembe
+    Remegve toljuk a tiltó reteszt.
+  A tiszta nők nyugodt és enyhe mellén
+    Oly súlyosan lóg az aranykereszt.
+  Ez a talaj szilárd – s ők állnak, ülnek,
+    Vagy fekszenek s nyugodtan alszanak.
+  Övék a föld, a biztos rejtveélés
+    S vetésükben lassan kikél a mag.
+  Mi a jövőt fogunkkal ránczigáljuk,
+    Köldökzsinórját tépjük esztelen,
+  Mi Mágusok vagyunk, Előidézők
+    És korcsolyázunk kócos fellegen.
+  És minden úszik és csurog köröttünk,
+    Bukunk, ha csak hozzánk nyulnak puhán,
+  Folyton-folyó és folyton-ujuló lét,
+    Sikos, csuszamlós trottoir-roulant,
+  Hullám a szélben, szél a fellegekben,
+    Szemét és csillagok közt a kezünk
+  S bizonytalan habokban, életünkben
+    Alélva és őrjöngve evezünk –
+  Csak evezünk a ködben és a szélben,
+    Mint tántorgó és ájult szivbajos,
+  Ki kétes élete bús óczeánján
+    Rozzant ladikkal tétova hajós.
+
+A KÁRTYÁS DIADALA:
+
+  Diadal!
+  Tüzes szekéren, lángnyelvek között,
+  A parfümös nő hozzánk költözött
+  És száll a dal:
+  Diadal!
+  Parfümzivatar, őrjöngő világ,
+  Rivalganak rettentő trombiták:
+  Diadal!
+  Kinálja testét, táncol, hahotázik,
+  Ő a miénk és öleljük rogyásig:
+  Diadal!
+  Nem egy a csók, de száz és százezer.
+  Ő most szeret és ő most követel:
+  Diadal!
+  Csóktól, aranytól részegek vagyunk
+  És orditunk és összeroskadunk:
+  Diadal!
+
+INDULÓ A KÖLTŐKHÖZ:
+
+  Ez itt az élet, hámor és kohó –
+    Világ költői, ide jöjjetek.
+  Testvéri szemmel, örökös hazárdok
+    Nézzétek itt az ősi lényeget.
+  Látjátok-e, a zöld asztal szövetjén
+    Ott ugrik a véletlen, mint a nyul
+    És kavarognak a szinek veszetten,
+    Mint álmainkba határtalanul.
+  Rémitve jönnek szörnyü figurák,
+    A feketék, a dörgő pirosak.
+  Ez itt az élet karneváli tánca,
+    Borzongató és édes iszonyat.
+  Költőszivünk sok kendőzött alakja,
+  Fantáziánknak lángoló salakja
+  Olvadva, sisteregve, feketén.
+  Ó élet, élet, roppant költemény,
+  Most láthatunk mezítelenül, ragyogva – –
+                  Mi kéj.
+  Mily őrjitő, mily széditő – –
+                  Mi mély.
+
+A KÁRTYA PAPJAI MISÉZNEK:
+
+  Most így teszünk, most úgy, most ujra másként,
+    Ballábbal indulunk a harcba mi.
+  Súgunk magunkba, biccentünk fejünkkel,
+    Vajákosok mi, kártya papjai.
+  Hétszer szent a mi ceremóniánk,
+    Mert erre lejt a táncolók sora.
+  Ez a varázsszer nyitja meg a zárat,
+    Valóságnál valódibb babona.
+  Örök pecsét, mély titkokat lezáró
+  Lámpás, koszorú, mély habokba zászló,
+  Ő a bizalmunk, a szilárd, az áldott,
+  Ő gömbölyiti ki testté az álmot.
+  És hogyha eljő a nagy Gyertyaoltó,
+    Vesztünk s odaadjuk néki bánatunk.
+  De próbálva ő rajta is varázsunk,
+    Előbb, előbb még – hétig olvasunk…
+
+A KÁRTYÁS SÍR:
+
+  Bitang! – kiáltja a szélvész utánunk,
+  Zsivány! – sziszegi és megyünk tovább
+  S mint a gyerek, akit véresre vertek,
+  Isszuk az undor keserű borát.
+  Finom kezünk szelíd arcunkra nyomjuk
+  S az álmok álma csendbe hull reája
+  És játszani kezd elhagyott szivünkben
+  Az életünk laterna magicája.
+  S látunk mezőt és virgonc, pici bárányt,
+    Látunk karácsonyt, kávés reggelit.
+  És az anyánkat is, kisirt szemekkel
+    És a szemünk könnyekkel megtelik.
+  És reszketünk, ha elfújjuk a gyertyát
+    És a sötétség járkál körülünk.
+  A paplanunkat is fülünkre huzzuk
+    S halálosan magunkba merülünk.
+
+  Ilyenkor az ágy hófehér mezőin
+    Az életünktől borzadozunk által,
+  Az egyik sír, a másik átkozódik,
+    A költőben felreszket egy csodás dal.
+  És akinek egy pásztor volt az apja,
+    Az messziről egy pásztorfurulyát hall…
+
+
+
+
+JAJVESZÉKLŐ
+
+
+A MAGYAR ROMOKON
+
+  Jaj, merre menjek?
+  Jaj, merre nézzek?
+  Jaj, mit rebegjek?
+  Jaj, mit hazudjak?
+
+  Jaj, tán loholjak?
+  Jaj, tán feküdjek?
+  Jaj, mért akarjak?
+  Jaj, mért pihenjek?
+
+  Jaj, régi kertünk?
+  Jaj, versek álma?
+  Jaj, drága fajtám?
+  Jaj, bús vidékem?
+
+  Jaj, hogy sziszegjek?
+  Jaj, hogy üvöltsek?
+  Jaj, hogy kigyózzak?
+  Jaj, hogy harapjak?
+
+  Jaj, hol az arcom?
+  Jaj, hol a multam?
+  Jaj, hol az ágyam?
+  Jaj, hol a sírom?
+
+
+SZÉNRAJZ
+
+  Most gondolok az őszi vándorokra,
+    Kik az országúton sóhajtva mennek,
+  Hátukon egy batyúval, tántorogva,
+    Vágyuk feszítve a vak végtelennek.
+  Eső szitál és hervad már a nyárfa,
+    Csak pár levele inog még fehéren
+  A holt galyon, oly búsan, mint az árva
+    Halott mellén a vitézségi érem.
+
+  Minek is élni? Halni már a célja,
+    Elég, elég volt küzdeni idáig.
+  A tompa csöndből hallani alélva
+    Az elvonult nyár aranytrombitáit.
+  Ki tegnap állt, az fekszik most a földön
+    És sírni is erőtelen ezentúl.
+  Köröskörül a köd akár a börtön,
+    A hangtalan és ájult őszben elnyúl.
+
+  De jajgatnak sírjukban a halottak,
+    Kik élni vágytak volna, jajveszéklő
+  Szóval kiáltanak és felzokognak.
+    Ti értetek bor… álom… pálma… szép nő…
+  Itt járnak ők sötét, halálra sértett
+    Arccal közöttünk és rázzák az ajtót,
+  Bitangoló sok millió kísértet,
+    A sírból az élet felé sóhajtók.
+
+  A katona tanyák körül bolyong most,
+    Hol rózsaszín láng ég, az arca sápadt,
+  Csak nézi az égboltot, a borongóst,
+    Szíve üres, tarisznyájába bánat.
+  Hideglelős szemét feszíti tágra,
+    És óriás fantasztikus alakja,
+  A mint reá mered e bús világra
+    S lelkét, szegény lelkét a semmi lakja.
+
+  Az ablakon lesi, a mint a polgár
+    Dunyhák között vetköződik az ódon
+  Hálószobában, puffadt vánkosoknál
+    S libeg-lobog gyertyája furcsa módon.
+  Hol az ő ágya? Hollók, éji varjak
+    Kárognak útján, gyengelábu, részeg
+  És átkozódva búsan tovaballag,
+    Mint a középkori lándzsás vitézek.
+
+(1918)
+
+
+VIDÉKI ÉJ
+
+  Milyen közeli most a nyári ég
+  S mily messzi-kék
+  Alatta az alvó, beteg vidék.
+
+  A csillagos ég – fényes sírlepel –
+  Reád lehel
+  S a mindenséget kézzel éred el.
+
+  Csak ússz az éjbe, tündökölve ússz,
+  Jó, égi túsz
+  Ó messzeség őrültje, Sziriusz.
+
+  Mit hallasz itt? Az álmot hallod itt,
+  A halmokig
+  Halkan motoz, az éjjel álmodik.
+
+  Egy távol mozdony hortyog valahol,
+  Mert áll a tor,
+  Vértől zabáltan lassan zakatol.
+
+  Az ablakok lehunyják a szemük.
+  Csend mindenütt.
+  A toronyóra zengőn egyet üt.
+
+  De felviláglik a mély éjszaka
+  Kigyullad a
+  Kis patikának kormos ablaka.
+
+  Egy gyógyszerészlány – hadi, fiatal –
+  Felkel hamar,
+  Márványcsészében álomport kavar.
+
+  Az élet és a felleg eluszik.
+  Olyan bús itt.
+  Élő, halott egyformán aluszik.
+
+  Egyszerre a kis utcák dörgenek,
+  Egy szörnyeteg?
+  Nem, vas, halál, szij, Éji őrmenet.
+
+  Elhangzik a dobaja. Semmi más,
+  Egy surranás.
+  Most két erős, gyors puskadurranás.
+
+  Aszfaltra rogy egy bús, bitang legény
+  Fáradt szegény.
+  Csókolja a földet. Egy szökevény.
+
+  Körötte senki. A vidék kiholt.
+  Nem is sikolt.
+  Ki volt az anyja, istenem, ki volt?
+
+  A haja dús, még minden szála ép.
+  A szája szép
+  S harminckét foga büszke, drága ék.
+
+  Sápadt fejéből csörgedez a vér –
+  S ki tudja mér? –
+  Bámulja őt a vén Göncölszekér.
+
+(1918)
+
+
+ÓDA[1]
+
+  E dobogón roppant neved köszöntöm
+  Petőfi Sándor, én az új poéta
+  Szegényes kincseim lábadhoz öntöm
+  S hívom emléked, mely ma újra néma.
+  Szóljon neked, ki biztos erő vagy,
+  E tétova és új-ideges ének
+  S halld meg szavát, a szomszédból jövőnek
+  Az alföld árva, koldús gyermekének.
+
+  Kezembe nincsenek arany kalászok,
+  Se víg pipacs. Mind elhervadt, mi termett.
+  Vetésem a hold zöld vizében ázott
+  S egy vak szóbában sírtam, mint a gyermek.
+  Nap sem sütött rám. Mérgek és vad álmok
+  Igéztek engem az alföldi porban,
+  A bús vidéken és a betegágyról,
+  Az orvosságról és lázról daloltam.
+
+  Ám nagyapám, ki honvédszázados volt
+  És verekedett a császári haddal,
+  Még látta arcod és hallotta hangod
+  Tűzben remegni, amikor a vad dal
+  Fölreszketett és még mesélt felőled
+  Olyant, amit mi álmodni se tudnánk,
+  Mély téli esten, a gyerekszobában,
+  Mikor a findzsán reszketett a rumláng.
+
+  Igy látlak én még mostan is. Hatalmas,
+  Kiben az élet vére tüzesen vert,
+  Ifjú, kiben a magyar ég tetőzött
+  És meghaltál és nem láttad a tengert,
+  Elnémulok, csak hírmondód idézem,
+  A nagyapám árnyát e törpe, kalmár,
+  Sötét időben, aki még szabad volt
+  S dacolni is mert, régi forradalmár.
+
+  Ő is bolyongott, hosszan, számkivetve
+  Az óceán hullámának eredvén,
+  Negyven napig vergődött új hazába –
+  Szegény emigráns – rozoga dereglyén.
+  És sírt, hogy a newyorki kikötőbe
+  Hajók tolongtak és nem várta senki,
+  A kéményerdő rámeredt sötéten,
+  Lármázott a víz és rohant a yankee.
+
+  Aztán tíz évig élt így. Kosztolányi
+  Ágoston itta könnyeit hiába,
+  Szeneszsákot cepelt a vad Newyorkba,
+  Selyemre festett Philadelphiába.
+  Göndör fejét ereszté este búnak
+  És arra gondolt, vajjon haza ér-e,
+  Gondolt reánk, kik még meg sem születtünk
+  Az unokái távoli fejére.
+
+  Mert azt akarta, ott a tengeren túl,
+  Hogy ne legyen rongyember soha többet
+  És unokája, ki költő leend majd,
+  Magyarul áldja az eget s a földet.
+  Most ime éneklek ő róla, híven,
+  Ki homlokod láthatta glóriásnak
+  S emléket állítok a kedves aggnak,
+  Ki szenvedett s te néked, óriásnak.
+
+  Méltatlan költő, én, ki a neveddel
+  E pillanat tüzében összeforrok,
+  Ereklyéim adom, mik megmaradtak
+  A gyermekkorból s könnyeimtől forrók.
+  Iker nevetek fontam koszorúba –
+  Két drága honvéd – az én új dalomba:
+  És a küszöbön várom, hogy megilless,
+  Alázatosan, a porig hajolva.
+
+
+ANYÁK
+
+  Már a szemük oly szörnyű nagy,
+  Hogy megijed, ki belenéz
+  S szemük alatt sovány gödör,
+  Amelybe rémek alszanak.
+  Oly vékonyak, akár a rongy,
+  Tejadó mellük elapadt,
+  Könnyes szemük kiszáradott,
+  Kezük, mint a kardpenge oly
+  Éles, határozott, kemény,
+  S uruk sóhajtva néz reá,
+  A kézre, amely puha volt,
+  Az álmok lágy párnája volt,
+  S nem ismeri fel a kezet.
+
+  Nem is nők többé, férfiak,
+  Álmos, sebesült katonák,
+  Fejükön fekete sisak,
+  A szenvedés, a vassisak.
+
+  Mind egyformák ők: az anyák.
+  S ha lenne egy találkozás,
+  Leülnének a földre ők,
+  A föld anyái szeliden.
+  S azt mondanák: igen, igen.
+  Bólongnának: igen, igen,
+  Vádolnának: igen, igen.
+
+  Igy csak járkálnak szótlanul,
+  S nem tudják merre, mért, hová,
+  Nem tudják soha, mi a hír,
+  Nem tudják, éj van-e, nap-e.
+  Csak néha emelik kezük,
+  Hogy megállítsák, ami megy,
+  A szörnyűséges valamit,
+  Miről remegve hallanak,
+  Ha ujságot olvas uruk.
+  Csak néha kelnek fel búsan,
+  Ebédidőn s berontanak
+  Oda, hol a fiuk lakott
+  S az üres ágyba keresik
+  Eltávozott kisfiukat,
+  S az üres égbe keresik
+  Az istent, aki nincs sehol.
+
+
+KATONA A VILLAMOSBAN
+
+  Úgy nézem a te arcodat, mint egy ős-régi rúnát,
+  Ó ismeretlen közbaka e kóbor villamosban
+  És olvasom a szenvedést, amit e háborún át,
+  Titkos karcokkal véstek rá s megdermedt rajta mostan
+  Mert minden itt van, ami volt – csak győzd lajstromra venni –
+  Tizennégyből a könny, a vér, tizenötből a hangzó
+  Halálüvöltés és roham, tizenhatból a jajszó,
+  Tizenhétből egy csúcshurut, tizennyolcból a semmi.
+  Ember, testvér, apánk, fiunk, öcsénk, bátyánk, te bálvány,
+  Oly mély vagy immár, hogy a nép elhúzódik felőled,
+  A végtelent sejdíti meg és ijedez te tőled,
+  Amint lecsuklik a fejed, halott közönnyel árván.
+  A föld, a tompa föld ilyen. Már egy hegycsúcs az orrod,
+  Mely a bús arcok völgyein szökell, magasba törve,
+  Két mély mocsár a két szemed és elhagyott, beomlott,
+  Ijesztő, néma kút a szád, szájad fekete gödre.
+
+
+IDEGES RÍMEK
+
+  Reménytelen,
+  Ki él, az mind reménytelen,
+  Csak könnye van, teménytelen.
+
+  Ezt dúdolom,
+  Egy téli éjjel dúdolom
+  S szorítom ájult homlokom.
+
+  Mit sirjak én?
+  E vad kornak mit sirjak én?
+  Mit jajgassak, mit irjak én?
+
+  Száz év se kell,
+  Még annyi se, száz év se kell.
+  Sírunkon a szél énekel.
+
+  Ki könnyet ont,
+  Bibor vért, halvány könnyet ont,
+  Egyforma lesz, mind görbe csont.
+
+  A katona,
+  Vidám polgár, bús katona,
+  Nem tudja, mért járt itt, soha.
+
+  A versiró,
+  Cenzor, szedő és versiró
+  Aludni fog s aludni jó.
+
+  Menj, árva, zord,
+  Szegény dalom, te árva, zord,
+  Dalold a semmit és a port.
+
+  Reménytelen,
+  Ki él, az mind reménytelen,
+  Csak könnye van, teménytelen.
+
+
+GYÁSZKAR
+
+  Megölték őt. Megölték.
+  Nagyhangon elkiáltom
+  Világnak embereknek.
+  Hegyeknek és folyóknak.
+  Megölték őt. Megölték.
+
+  Gyászolni igy tudunk ma.
+  Orditó fájdalommal.
+  Elbóduló szavakkal,
+  Elbődülő haraggal.
+
+  Mert jaj, nem azok ölték,
+  Kiket szegényke látott,
+  Hogy a földet harapta
+  És verte azt a földet
+  Irtózatos ököllel,
+  Mely nem lehet övé már.
+
+  Mert jaj, nem azok ölték,
+  Kiket szegényke gondolt,
+  Hogy életét kereste
+  Rövidlátó szemével,
+  Ugy mint a kertje földjén
+  Szemüvegét kereste.
+
+  Mert jajjaj, mások ölték,
+  Kiket sohase látott,
+  Mert jajjaj mások ölték,
+  Kiket sohase ismert.
+
+  De én ismérem őket,
+  Én tudom, mit csinálnak,
+  Én tudom, merre laknak,
+  Én tudom, hogy mit esznek.
+
+  Bujakór koszorúzza
+  A homlokuk pirossal,
+  És verje meg az isten
+  Őket sokféle jóval,
+  Élettel, hosszu-hosszu
+  Évekkel, pénz sokával,
+  Ásitó unalommal.
+  Hadd tolják őket édes
+  Ringásu párna-széken
+  És tágranyilt szemükben
+  Halkan égjen a téboly.
+
+
+KÖNNYEK KOLDUSA
+
+  Én voltam egykor szent edény.
+  A fájdalom lakott szivemben
+  S a boldogok
+  Poétának neveztek engem.
+
+  Mostan vagyok koldus, szegény,
+  Mert elveszett, mi az enyém volt.
+  S a könny, a könny
+  A nagyvilágra szerteszétfolyt.
+
+  Zokognak a föld kerekén
+  Mindenki sír, mindenki költő,
+  Vak jajgató,
+  Fájdalmát az égig üvöltő.
+
+  De legnagyobb jaj az enyém,
+  Ki állok itt e bús özönben,
+  Sírók között
+  S nincs semmi búm és semmi könyem.
+
+
+MAGYAR KÖLTŐK SIKOLYA EURÓPA KÖLTŐIHEZ
+
+  Oly mélyre estünk, hogy nem hullhatunk már,
+  Nincs is magas és nincs számunkra mély.
+  Anyánk nyelvén sikoltunk a világhoz,
+  Mi lesz szivünkkel és mi lesz szavunkkal,
+  Ha jő az éj?
+
+  Ti messze költők, akik távol innen
+  Emelkedtek az isten szivihez,
+  Mi földön ülünk már s szavak hamúját
+  Kapargatjuk és felzokogva kérdjük,
+  Mi lesz, mi lesz.
+
+  A versünk is már csak segélysikoltás,
+  Mely ki se hat a tűzön-poklon át,
+  Mint gyenge csecsemőé, kit megölnek
+  És mint a szűzé, akit meggyaláznak
+  A katonák.
+
+(1919)
+
+
+RAPSZÓDIA
+
+  Nincs ahova hazatérjek,
+  Ténfergek, mint a kisértet
+  Éjszaka.
+
+  Süt a verő, mégse látnak,
+  A magyar a nagyvilágnak
+  Árvája.
+
+  Megy az élet, jő az élet,
+  Ebek vagyunk és cselédek.
+  Bolondok.
+
+  Jajgatok, de nincs ki hallja,
+  Vizes a kalapom alja
+  A könnytől.
+
+  Jaj, ha szám egyet kiáltna,
+  Kitűzném a kapufára
+  Szívemet.
+
+  Csak csöndesen szivem, aludj,
+  Jó nekem így, jó nekem úgy,
+  Akárhogy.
+
+  Igy végezték bús hatalmak,
+  Olcsó víz a magyar harmat,
+  Sárba hull.
+
+  Mit bánják ők? Nevetnek ők,
+  Várnák ákácos temetők
+  Mi reánk.
+
+  Édesanyám minek szültél?
+  Elhervadtál, megőszültél
+  Hiába…
+
+
+IMA HARC ELŐTT
+
+  Belőlem majd bús lobogó lesz,
+  Mit összetép idők viharja,
+  Emlékemet is elsodorja
+  S nem kisér lárma, suttogó nesz.
+
+  Belőletek lesz cafra dísz tán,
+  Bankár-kisasszonyoknak éke,
+  De az enyém a jó, a béke,
+  A becsületnek gyolcsa, tisztán.
+
+  Mert odaadtam mind a kincsem,
+  Szivem jobbik felét a nőnek,
+  Felét zálogba a jövőnek,
+  És a kezembe semmi sincsen.
+
+  A sorsomat adtam agyarnak,
+  Fognak, körömnek és tusának,
+  S mindent a földgömb koldusának,
+  A vak mártirnak, a magyarnak.
+
+  Ő az Apa, a mondhatatlan,
+  A Nemző, aki sir a földön,
+  És most mit kaptam tőle kölcsön,
+  Az életem is visszaadtam.
+
+  Csak gyújtsa más reá a tüzvészt,
+  Én sirva borulok nyomába,
+  Csörgesse a rongy és a gyáva,
+  A hirt, ezt a harminc ezüstpénzt.
+
+  Nyirettyüjük mások rikassák,
+  Úri szalonba, úri bálon,
+  Én titkos arcod látva-látom,
+  Fajom, mert föld vagy, vér, igazság.
+
+  Belőlem, majd bús lobogó lesz,
+  Mit sárba dobnak, elfelednek,
+  Árnyéka eltűnő nevemnek,
+  De becsűletbe bukni jó lesz.
+
+(1920)
+
+
+SZONETT AZ ÖREG KIRÁLYRÓL
+
+  Mily meghatottan gondolok ma rája,
+  Hogy nyavalyatörősen és bután
+  Fekszünk a sárban, annyi könny után
+  S szájunk a tébolyt és jajt kiabálja.
+
+  Ezüstösen hullt a tél zuzmarája,
+  S öregapóként ült nagy trónusán
+  Az agg király, mi kávéztunk Budán
+  S a végtelen békére nyilt a pálya.
+
+  Én ekkor voltam boldog. Aranyak
+  Bújtak rongyos zsebembe hallgatag
+  És fájt az élet, a rejtélyes-édes.
+
+  Diadalmas tüzével vert a nap.
+  Sirtam, daloltam lombos kert alatt.
+  Mert költő voltam és huszonöt éves.
+
+
+SZABADKA
+
+  Szülőföldemnek bús határa, hajh,
+  Elér-e még a bánat és sóhaj?
+
+  Mert hozzád többé nem visz a vonat,
+  Csak igy emelhetem rád arcomat.
+
+  Gyermekkorom, áldott gyermekkorom
+  Te hontalan, hozzád kiáltozom.
+
+  Bölcsők, koporsók, temetői por
+  És templomok ormán az estbibor.
+
+  Kis iskolánk, amelybe a harang
+  Oly édesen beszélt, akár a lant.
+
+  Lombok, virágok és szines kavics
+  A sinek mellett. Hullámos Palics.
+
+  Hold, nyári bál, rakéta, kéjes ég
+  S a szélbe – karcsú lányok – jegenyék.
+
+  Szivembe húsz év gazdagsága s lágy
+  Édes-halálos méz: a vágy, a vágy.
+
+  Fejemre kulcsolom a két kezem
+  És koravénen rád emlékezem.
+
+  Vagyok szegény, ki semmit sem akar,
+  Harmincnégy éves, elfáradt magyar.
+
+  S nem kérdezem az ég ragyog-e még.
+  Azt sem kérdezem, hogy vagyok-e még?
+
+
+
+
+Lábjegyzetek.
+
+[Footnote 1: Székfoglaló a Petőfi Társaságban.]
+
+
+
+
+TARTALOM
+
+AZ ÁLDOTTAK
+
+  Boldog, szomorú dal  7
+  Hitves  9
+  Részeg virágok és darázs-szó  11
+  Jajszó  13
+  Verés  15
+  Anyai nagyapám arcképe  17
+  Sakkoztunk egyszer…  19
+  Csáth Gézának  21
+  A nagyvárosban éltem  26
+  Ádám fiam utravalója  28
+
+ŐSZI KONCERT
+
+  Őszi koncert  33
+
+ÉGI KALANDOK
+
+  Egyre közelebb  55
+  Együgyü ének  57
+  Ősi… Régi…  59
+  Csillagok  60
+  Éji riadalom  62
+  Bohóc  63
+  Mint  65
+  Árnyak fehér processziója  66
+  Reggeli áldás  68
+  Lángok között  71
+  A magány papja  73
+  Szonett egy szoborra  74
+  A szőke nő portréja  75
+  Vénség  76
+  Áldott szegénység…  77
+  Az átkozott házban  78
+  Az ellenség  80
+
+KÁRTYA
+
+  Kártya  83
+
+JAJVESZÉKLŐ
+
+  A magyar romokon  93
+  Szénrajz  94
+  Vidéki éj  96
+  Óda  99
+  Anyák  102
+  Katona a villamosban  104
+  Ideges rímek  105
+  Gyászkar  107
+  Könnyek koldusa  109
+  Magyar költők sikolya Európa költőihez  110
+  Rapszódia  111
+  Ima harc előtt  113
+  Szonett az öreg királyról  115
+  Szabadka  116
+
+
+
+*** END OF THE PROJECT GUTENBERG EBOOK KENYÉR ÉS BOR ***
+
+Updated editions will replace the previous one--the old editions will
+be renamed.
+
+Creating the works from print editions not protected by U.S. copyright
+law means that no one owns a United States copyright in these works,
+so the Foundation (and you!) can copy and distribute it in the
+United States without permission and without paying copyright
+royalties. Special rules, set forth in the General Terms of Use part
+of this license, apply to copying and distributing Project
+Gutenberg-tm electronic works to protect the PROJECT GUTENBERG-tm
+concept and trademark. Project Gutenberg is a registered trademark,
+and may not be used if you charge for an eBook, except by following
+the terms of the trademark license, including paying royalties for use
+of the Project Gutenberg trademark. If you do not charge anything for
+copies of this eBook, complying with the trademark license is very
+easy. You may use this eBook for nearly any purpose such as creation
+of derivative works, reports, performances and research. Project
+Gutenberg eBooks may be modified and printed and given away--you may
+do practically ANYTHING in the United States with eBooks not protected
+by U.S. copyright law. Redistribution is subject to the trademark
+license, especially commercial redistribution.
+
+START: FULL LICENSE
+
+THE FULL PROJECT GUTENBERG LICENSE
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg-tm mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase "Project
+Gutenberg"), you agree to comply with all the terms of the Full
+Project Gutenberg-tm License available with this file or online at
+www.gutenberg.org/license.
+
+Section 1. General Terms of Use and Redistributing Project
+Gutenberg-tm electronic works
+
+1.A. By reading or using any part of this Project Gutenberg-tm
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement. If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or
+destroy all copies of Project Gutenberg-tm electronic works in your
+possession. If you paid a fee for obtaining a copy of or access to a
+Project Gutenberg-tm electronic work and you do not agree to be bound
+by the terms of this agreement, you may obtain a refund from the
+person or entity to whom you paid the fee as set forth in paragraph
+1.E.8.
+
+1.B. "Project Gutenberg" is a registered trademark. It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement. There are a few
+things that you can do with most Project Gutenberg-tm electronic works
+even without complying with the full terms of this agreement. See
+paragraph 1.C below. There are a lot of things you can do with Project
+Gutenberg-tm electronic works if you follow the terms of this
+agreement and help preserve free future access to Project Gutenberg-tm
+electronic works. See paragraph 1.E below.
+
+1.C. The Project Gutenberg Literary Archive Foundation ("the
+Foundation" or PGLAF), owns a compilation copyright in the collection
+of Project Gutenberg-tm electronic works. Nearly all the individual
+works in the collection are in the public domain in the United
+States. If an individual work is unprotected by copyright law in the
+United States and you are located in the United States, we do not
+claim a right to prevent you from copying, distributing, performing,
+displaying or creating derivative works based on the work as long as
+all references to Project Gutenberg are removed. Of course, we hope
+that you will support the Project Gutenberg-tm mission of promoting
+free access to electronic works by freely sharing Project Gutenberg-tm
+works in compliance with the terms of this agreement for keeping the
+Project Gutenberg-tm name associated with the work. You can easily
+comply with the terms of this agreement by keeping this work in the
+same format with its attached full Project Gutenberg-tm License when
+you share it without charge with others.
+
+1.D. The copyright laws of the place where you are located also govern
+what you can do with this work. Copyright laws in most countries are
+in a constant state of change. If you are outside the United States,
+check the laws of your country in addition to the terms of this
+agreement before downloading, copying, displaying, performing,
+distributing or creating derivative works based on this work or any
+other Project Gutenberg-tm work. The Foundation makes no
+representations concerning the copyright status of any work in any
+country other than the United States.
+
+1.E. Unless you have removed all references to Project Gutenberg:
+
+1.E.1. The following sentence, with active links to, or other
+immediate access to, the full Project Gutenberg-tm License must appear
+prominently whenever any copy of a Project Gutenberg-tm work (any work
+on which the phrase "Project Gutenberg" appears, or with which the
+phrase "Project Gutenberg" is associated) is accessed, displayed,
+performed, viewed, copied or distributed:
+
+  This eBook is for the use of anyone anywhere in the United States and
+  most other parts of the world at no cost and with almost no
+  restrictions whatsoever. You may copy it, give it away or re-use it
+  under the terms of the Project Gutenberg License included with this
+  eBook or online at www.gutenberg.org. If you are not located in the
+  United States, you will have to check the laws of the country where
+  you are located before using this eBook.
+
+1.E.2. If an individual Project Gutenberg-tm electronic work is
+derived from texts not protected by U.S. copyright law (does not
+contain a notice indicating that it is posted with permission of the
+copyright holder), the work can be copied and distributed to anyone in
+the United States without paying any fees or charges. If you are
+redistributing or providing access to a work with the phrase "Project
+Gutenberg" associated with or appearing on the work, you must comply
+either with the requirements of paragraphs 1.E.1 through 1.E.7 or
+obtain permission for the use of the work and the Project Gutenberg-tm
+trademark as set forth in paragraphs 1.E.8 or 1.E.9.
+
+1.E.3. If an individual Project Gutenberg-tm electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any
+additional terms imposed by the copyright holder. Additional terms
+will be linked to the Project Gutenberg-tm License for all works
+posted with the permission of the copyright holder found at the
+beginning of this work.
+
+1.E.4. Do not unlink or detach or remove the full Project Gutenberg-tm
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg-tm.
+
+1.E.5. Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg-tm License.
+
+1.E.6. You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including
+any word processing or hypertext form. However, if you provide access
+to or distribute copies of a Project Gutenberg-tm work in a format
+other than "Plain Vanilla ASCII" or other format used in the official
+version posted on the official Project Gutenberg-tm website
+(www.gutenberg.org), you must, at no additional cost, fee or expense
+to the user, provide a copy, a means of exporting a copy, or a means
+of obtaining a copy upon request, of the work in its original "Plain
+Vanilla ASCII" or other form. Any alternate format must include the
+full Project Gutenberg-tm License as specified in paragraph 1.E.1.
+
+1.E.7. Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg-tm works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8. You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg-tm electronic works
+provided that:
+
+* You pay a royalty fee of 20% of the gross profits you derive from
+  the use of Project Gutenberg-tm works calculated using the method
+  you already use to calculate your applicable taxes. The fee is owed
+  to the owner of the Project Gutenberg-tm trademark, but he has
+  agreed to donate royalties under this paragraph to the Project
+  Gutenberg Literary Archive Foundation. Royalty payments must be paid
+  within 60 days following each date on which you prepare (or are
+  legally required to prepare) your periodic tax returns. Royalty
+  payments should be clearly marked as such and sent to the Project
+  Gutenberg Literary Archive Foundation at the address specified in
+  Section 4, "Information about donations to the Project Gutenberg
+  Literary Archive Foundation."
+
+* You provide a full refund of any money paid by a user who notifies
+  you in writing (or by e-mail) within 30 days of receipt that s/he
+  does not agree to the terms of the full Project Gutenberg-tm
+  License. You must require such a user to return or destroy all
+  copies of the works possessed in a physical medium and discontinue
+  all use of and all access to other copies of Project Gutenberg-tm
+  works.
+
+* You provide, in accordance with paragraph 1.F.3, a full refund of
+  any money paid for a work or a replacement copy, if a defect in the
+  electronic work is discovered and reported to you within 90 days of
+  receipt of the work.
+
+* You comply with all other terms of this agreement for free
+  distribution of Project Gutenberg-tm works.
+
+1.E.9. If you wish to charge a fee or distribute a Project
+Gutenberg-tm electronic work or group of works on different terms than
+are set forth in this agreement, you must obtain permission in writing
+from the Project Gutenberg Literary Archive Foundation, the manager of
+the Project Gutenberg-tm trademark. Contact the Foundation as set
+forth in Section 3 below.
+
+1.F.
+
+1.F.1. Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+works not protected by U.S. copyright law in creating the Project
+Gutenberg-tm collection. Despite these efforts, Project Gutenberg-tm
+electronic works, and the medium on which they may be stored, may
+contain "Defects," such as, but not limited to, incomplete, inaccurate
+or corrupt data, transcription errors, a copyright or other
+intellectual property infringement, a defective or damaged disk or
+other medium, a computer virus, or computer codes that damage or
+cannot be read by your equipment.
+
+1.F.2. LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
+of Replacement or Refund" described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg-tm trademark, and any other party distributing a Project
+Gutenberg-tm electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees. YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH 1.F.3. YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3. LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from. If you
+received the work on a physical medium, you must return the medium
+with your written explanation. The person or entity that provided you
+with the defective work may elect to provide a replacement copy in
+lieu of a refund. If you received the work electronically, the person
+or entity providing it to you may choose to give you a second
+opportunity to receive the work electronically in lieu of a refund. If
+the second copy is also defective, you may demand a refund in writing
+without further opportunities to fix the problem.
+
+1.F.4. Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you 'AS-IS', WITH NO
+OTHER WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT
+LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5. Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of
+damages. If any disclaimer or limitation set forth in this agreement
+violates the law of the state applicable to this agreement, the
+agreement shall be interpreted to make the maximum disclaimer or
+limitation permitted by the applicable state law. The invalidity or
+unenforceability of any provision of this agreement shall not void the
+remaining provisions.
+
+1.F.6. INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg-tm electronic works in
+accordance with this agreement, and any volunteers associated with the
+production, promotion and distribution of Project Gutenberg-tm
+electronic works, harmless from all liability, costs and expenses,
+including legal fees, that arise directly or indirectly from any of
+the following which you do or cause to occur: (a) distribution of this
+or any Project Gutenberg-tm work, (b) alteration, modification, or
+additions or deletions to any Project Gutenberg-tm work, and (c) any
+Defect you cause.
+
+Section 2. Information about the Mission of Project Gutenberg-tm
+
+Project Gutenberg-tm is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of
+computers including obsolete, old, middle-aged and new computers. It
+exists because of the efforts of hundreds of volunteers and donations
+from people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need are critical to reaching Project Gutenberg-tm's
+goals and ensuring that the Project Gutenberg-tm collection will
+remain freely available for generations to come. In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg-tm and future
+generations. To learn more about the Project Gutenberg Literary
+Archive Foundation and how your efforts and donations can help, see
+Sections 3 and 4 and the Foundation information page at
+www.gutenberg.org
+
+Section 3. Information about the Project Gutenberg Literary
+Archive Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non-profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service. The Foundation's EIN or federal tax identification
+number is 64-6221541. Contributions to the Project Gutenberg Literary
+Archive Foundation are tax deductible to the full extent permitted by
+U.S. federal laws and your state's laws.
+
+The Foundation's business office is located at 809 North 1500 West,
+Salt Lake City, UT 84116, (801) 596-1887. Email contact links and up
+to date contact information can be found at the Foundation's website
+and official page at www.gutenberg.org/contact
+
+Section 4. Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg-tm depends upon and cannot survive without
+widespread public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine-readable form accessible by the widest
+array of equipment including outdated equipment. Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States. Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements. We do not solicit donations in locations
+where we have not received written confirmation of compliance. To SEND
+DONATIONS or determine the status of compliance for any particular
+state visit www.gutenberg.org/donate
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States. U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg web pages for current donation
+methods and addresses. Donations are accepted in a number of other
+ways including checks, online payments and credit card donations. To
+donate, please visit: www.gutenberg.org/donate
+
+Section 5. General Information About Project Gutenberg-tm electronic works
+
+Professor Michael S. Hart was the originator of the Project
+Gutenberg-tm concept of a library of electronic works that could be
+freely shared with anyone. For forty years, he produced and
+distributed Project Gutenberg-tm eBooks with only a loose network of
+volunteer support.
+
+Project Gutenberg-tm eBooks are often created from several printed
+editions, all of which are confirmed as not protected by copyright in
+the U.S. unless a copyright notice is included. Thus, we do not
+necessarily keep eBooks in compliance with any particular paper
+edition.
+
+Most people start at our website which has the main PG search
+facility: www.gutenberg.org
+
+This website includes information about Project Gutenberg-tm,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.

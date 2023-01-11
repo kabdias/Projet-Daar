@@ -1,0 +1,67 @@
+from elasticsearch import Elasticsearch
+import re
+import json
+import nltk
+from nltk.tokenize import RegexpTokenizer
+nltk.download('words')
+
+def distance(s1,s2):
+    word_tokens1 =  nltk.word_tokenize(s1)
+    word_tokens2 =  nltk.word_tokenize(s2)
+    words1=[i for i in word_tokens1 if i.isalpha()]
+    words2=[i for i in word_tokens2 if i.isalpha()]
+    l=list(set(words1) & set(words2))
+    n=0
+    d=0
+    for i in l:
+        n1=words1.count(i)
+        n2=words2.count(i)
+        n+=max(n1,n2)-min(n1,n2)
+        d+=max(n1,n2)
+    return n/d
+        
+
+elastic_client = Elasticsearch(hosts=["127.0.0.1"])
+li=[]
+for i in range (67020,67037):
+    f=open("pg"+str(i)+".txt","r",encoding="utf8")
+    li.append(f.read())
+for i in range(17):
+    for j in range(i,17):
+        print(distance(li[i],li[j]))
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# content="turquois"
+# payload = json.dumps({
+#                 "query": {
+#                 "match": {
+#                 "content": content
+#                 }
+#                 },
+#                 "size": "2000"
+#             })
+# response=elastic_client.search(index="pdf", body=payload)
+# s=""
+# for i in response['hits']['hits']:
+#     s=i['_source']['content']
+    
+
+# # print(len(re.findall(content,s)))
+# example="we are the chompions !"
+# word_tokens =  nltk.word_tokenize(s)
+# words=[i for i in word_tokens if i.isalpha()]
+# print(word_tokens.count(content))
